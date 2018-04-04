@@ -1,5 +1,4 @@
-baseurl = "http://d.poornalayam.org/"
-# baseurl = "http://poornalayam.github.io"
+baseurl = "https://new.poornalayam.org/"
 title = "Poornalayam (பூர்ணாலயம்)"
 description = "Vedanta Talks in Tamil"
 theme = "mainroad-custom"

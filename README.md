@@ -7,7 +7,8 @@
 1. ~~Sidebar html links are not red color, they are black. Fix CSS to make it red like rest of text.~~
 1. nested menus not working
 1. classes-recorded/* pages, finished upto Bhagavad Gita Ch 03
-1. Redirect / /home, or create a custom landing page
+1. ~~Redirect / /home, or create a custom landing page~~ -- static/index.html redirects to /home
+1. 
 
 # Theme Customisations
 1. themes/mainroad-custom/layouts/_default/single.html -- uses breadcrumbs partial
