@@ -1,0 +1,59 @@
+baseurl = "http://d.poornalayam.org/"
+# baseurl = "http://poornalayam.github.io"
+title = "Poornalayam (பூர்ணாலயம்)"
+description = "Vedanta Talks in Tamil"
+theme = "mainroad-custom"
+disableKinds = ["home", "sections", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+googleAnalytics = ""
+
+[Params]
+    subtitle = "Vedanta Talks in Tamil"
+
+[Params.widgets]
+    search = true
+    announcements = true
+    news = true
+    downloadlatesttalks = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/home/"
+    identifier = "home"
+    weight = 1
+
+[[menu.main]]
+    name = "About Swamiji"
+    url = "/home/about-swamiji/"
+    parent = "home"
+    weight = 1
+
+[[menu.main]]
+    name = "Classes Recorded"
+    url = "/classes-recorded/"
+    identifier = "classes-recorded"
+    weight = 2
+
+[[menu.main]]
+    name = "Copyright Recorded"
+    url = "/classes-recorded/copyright-information"
+    identifier = "copyright-information"
+    parent = "classes-recorded"
+    weight = 1
+
+[[menu.main]]
+    name = "Books"
+    url = "/books/"
+    identifier = "books"
+    weight = 3
+
+[[menu.main]]
+    name = "Contribute"
+    url = "/contribute/"
+    identifier = "contribute"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    identifier = "contact"
+    weight = 5

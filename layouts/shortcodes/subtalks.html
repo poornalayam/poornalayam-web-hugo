@@ -1,0 +1,8 @@
+{{ $parent := .Get 0 }}
+{{ range (where .Site.Pages "Params.name" $parent ) }}
+<ol>
+    {{ range .Pages}}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}   
+</ol>
+{{ end }}
