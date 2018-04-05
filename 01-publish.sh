@@ -8,8 +8,6 @@ rm -rf public/*
 hugo
 
 cd public
-# Restore the CNAME file, it's used for custom domain hosting on GitHub Pages
-git checkout CNAME
 git status
 
 git add .
