@@ -2,7 +2,7 @@
 title: Bhagavad Gita – Chapter 04 (பகவத்கீதை – அத்யாயம் 04)
 type: page
 name: bhagavad-gita-chapter-04
-weight: 30
+weight: 40
 archiveitemid: BhagavadGitaCh04
 ---
 
