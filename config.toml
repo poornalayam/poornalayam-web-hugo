@@ -33,13 +33,6 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    name = "Copyright Recorded"
-    url = "/classes-recorded/copyright-information"
-    identifier = "copyright-information"
-    parent = "classes-recorded"
-    weight = 1
-
-[[menu.main]]
     name = "Books"
     url = "/books/"
     identifier = "books"
