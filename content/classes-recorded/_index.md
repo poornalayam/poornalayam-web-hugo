@@ -29,7 +29,6 @@ Classes have been classified under the following topics:
 {{< subtalks "upanishads" >}}
 </div>
 
-### 4. TODO Vedantic Texts
 ### 4. [Vedantic Texts (வேதாந்த நூல்கள்)](vedantic-texts/) <button onclick='showhide(this, "up")'>more</button>
 <div id="up" class="collapse" style="display: none;">
 {{< subtalks "upanishads" >}}
