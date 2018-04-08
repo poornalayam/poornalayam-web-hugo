@@ -14,17 +14,17 @@ The [Poornalayam Catalogue (பட்டியல்) 2018](/files/poornalayam-c
 
 Classes have been classified under the following topics:
 
-### 1. [Introduction](introduction/) <button onclick='showhide(this, "intro")'>more</button>
+### 1. [Introduction (அறிமுகம்)](introduction/) <button onclick='showhide(this, "intro")'>more</button>
 <div id="intro" class="collapse" style="display: none;">
 {{< subtalks "introduction" >}}
 </div>
 
-### 2. [Bhagavad Gita](bhagavad-gita/) <button onclick='showhide(this, "bg")'>more</button>
+### 2. [Bhagavad Gita (பகவத்கீதை)](bhagavad-gita/) <button onclick='showhide(this, "bg")'>more</button>
 <div id="bg" class="collapse" style="display: none;">
 {{< subtalks "bhavagad-gita" >}}
 </div>
 
-### 2. [Upanishads](upanishads/) <button onclick='showhide(this, "up")'>more</button>
+### 2. [Upanishads (உபநிஷத்துக்கள்)](upanishads/) <button onclick='showhide(this, "up")'>more</button>
 <div id="up" class="collapse" style="display: none;">
 {{< subtalks "upanishads" >}}
 </div>
