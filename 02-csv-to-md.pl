@@ -20,12 +20,12 @@ my $ytid;
 
 while (<>) {
 
+    $class = $1 if m|^(.+?);|;
+    $mp3   = $1 if m|/([^/]+.mp3)|;
+    $ytid  = $1 if m|youtu\.be\/(.+)>Play|;
 
-    m|^(.+?);|;  $class = $1;
-
-    m|/([^/]+.mp3)|;   $mp3 = $1;
-
-    m|youtu\.be\/(.+)>Play|;  $ytid = $1;
+    next unless $mp3;
+    next unless $ytid;
 
     print qq($class | {{< archive "$mp3" >}} | {{< yt "$ytid" >}}\n);
 
