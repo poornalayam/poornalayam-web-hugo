@@ -1,0 +1,15 @@
+---
+title: Sanyasa (சன்யாஸம்)
+type: page
+name: sanyasa
+weight: 260
+archiveitemid: Sanyasa
+---
+
+This talk explains the meaning and significance of Sanyasa.
+
+Listen via {{< ytpl "PLFhE-jwdLAYEmpyc1PbPJOjoz_o2XW0QA" >}} {{< itunes "sanyasa/id879273490" >}}
+
+Class Name | Download Audio | YouTube
+:---|:---:|:---:
+Class 01 | {{< archive "10_Sannyasa.mp3" >}} | {{< yt "pHQnNkwbx3s" >}}

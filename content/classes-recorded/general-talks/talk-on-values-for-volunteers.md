@@ -1,0 +1,15 @@
+---
+title: Talk on Values for Volunteers (நற்பண்புகள் பற்றி தொண்டூழியர்களுக்கான உரை)
+type: page
+name: talk-on-values-for-volunteers
+weight: 350
+archiveitemid: ValuesForVolunteers
+---
+
+Talks Given By Swamiji on values for the volunteers who are doing service.
+
+Listen via {{< ytpl "PLFhE-jwdLAYG9r4AmjYzZhDsY-VsnxhPc" >}}
+
+Class Name | Download Audio | YouTube
+:---|:---:|:---:
+Class 01 | {{< archive "VS_01_Values.mp3" >}} | {{< yt "bJFpo5mMZBk" >}}
