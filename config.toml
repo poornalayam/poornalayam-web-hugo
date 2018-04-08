@@ -2,8 +2,14 @@ baseurl = "https://new.poornalayam.org/"
 title = "Poornalayam (பூர்ணாலயம்)"
 description = "Vedanta Talks in Tamil"
 theme = "mainroad-custom"
-disableKinds = ["home", "sections", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+disableKinds = ["home", "sections", "taxonomy", "taxonomyTerm", "RSS"]
 googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+    filename = "sitemap.xml"
 
 [Params]
     subtitle = "Vedanta Talks in Tamil"
