@@ -31,12 +31,15 @@ Classes have been classified under the following topics:
 
 ### 4. [Vedantic Texts (வேதாந்த நூல்கள்)](vedantic-texts/) <button onclick='showhide(this, "vt")'>more</button>
 <div id="vt" class="collapse" style="display: none;">
-{{< subtalks "upanishads" >}}
+{{< subtalks "vedantic-texts" >}}
 </div>
 
 ### 5. [Brahma Sutram (ப்ரம்ம சூத்ரம்)](brahma-sutram/)
 
-### 6. TODO General Talks
+### 6. [General Talks (வேதாந்த சொற்பொழிவுகள்)](general-talks/) <button onclick='showhide(this, "gt")'>more</button>
+<div id="gt" class="collapse" style="display: none;">
+{{< subtalks "general-talks" >}}
+</div>
 
 ### 7. [Guided Meditation (த்யானம்)](guided-meditation/)
 
