@@ -24,7 +24,7 @@ Classes have been classified under the following topics:
 {{< subtalks "bhavagad-gita" >}}
 </div>
 
-### 2. [Upanishads (உபநிஷத்துக்கள்)](upanishads/) <button onclick='showhide(this, "up")'>more</button>
+### 3. [Upanishads (உபநிஷத்துக்கள்)](upanishads/) <button onclick='showhide(this, "up")'>more</button>
 <div id="up" class="collapse" style="display: none;">
 {{< subtalks "upanishads" >}}
 </div>

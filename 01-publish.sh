@@ -4,7 +4,7 @@
 
 
 # Clean and build the project in public/
-rm -rf public/*
+rm -rf public/* /tmp/hugo_cache
 hugo
 
 cd public
