@@ -29,7 +29,11 @@ Classes have been classified under the following topics:
 {{< subtalks "upanishads" >}}
 </div>
 
-### TODO More talks pending
+### 4. TODO Vedantic Texts
+
+### 5. [Brahma Sutram (ப்ரம்ம சூத்ரம்)](brahma-sutram/)
+
+### 6. TODO General Talks
 
 ### 7. [Guided Meditation (த்யானம்)](guided-meditation/)
 
