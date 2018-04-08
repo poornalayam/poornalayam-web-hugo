@@ -30,6 +30,10 @@ Classes have been classified under the following topics:
 </div>
 
 ### 4. TODO Vedantic Texts
+### 4. [Vedantic Texts (வேதாந்த நூல்கள்)](vedantic-texts/) <button onclick='showhide(this, "up")'>more</button>
+<div id="up" class="collapse" style="display: none;">
+{{< subtalks "upanishads" >}}
+</div>
 
 ### 5. [Brahma Sutram (ப்ரம்ம சூத்ரம்)](brahma-sutram/)
 
