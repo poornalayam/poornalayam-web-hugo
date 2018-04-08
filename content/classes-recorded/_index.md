@@ -31,6 +31,8 @@ Classes have been classified under the following topics:
 
 ### TODO More talks pending
 
+### 7. [Guided Meditation (த்யானம்)](guided-meditation/)
+
 ## Copyright Information
 
 Free downloads have been enabled for the benefit of genuine seekers for private or personal listening use only.
