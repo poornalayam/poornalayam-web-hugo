@@ -22,3 +22,4 @@
 1. themes/mainroad-custom/layouts/_default/single.html -- uses breadcrumbs partial
 1. themes/mainroad-custom/layouts/_default/list.html -- list pages also use single.html layout
 1. themes/mainroad-custom/layouts/partials/widgets/*.html -- added announcements, news, download latest talks widgets
+1. mainroad theme has been fully customized, any updates to upstream must be merged manually 
