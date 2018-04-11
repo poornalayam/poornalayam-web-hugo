@@ -3,6 +3,10 @@ image: registry.gitlab.com/pages/hugo:latest
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+  GITEMAIL: "poornalayam@gmail.com"
+  GITNAME: "Swami Guruparananda"
+  GHUSER: "poornalayam"
+  GHREPO: "poornalayam.github.io.git"
 
 test:
   script:
@@ -12,9 +16,14 @@ test:
 
 pages:
   script:
-  - rm -rf public/* /tmp/hugo*
+  - git --git-dir public/.git config user.email "$GITEMAIL"
+  - git --git-dir public/.git config user.name  "$GITNAME"
+  - git --git-dir public/.git checkout master
+  - rm -rf public/* /tmp/hugo_cache
   - hugo
-  - ./10-deploy-ghp.sh
+  - git --git-dir public/.git add .
+  - git --git-dir public/.git commit -m "rebuilding site `date`"
+  - git --git-dir public/.git push https://$GHUSER:$GH_TOKEN@github.com/${GHUSER}/${GHREPO}
   artifacts:
     paths:
     - public
