@@ -6,7 +6,7 @@
 1. Clone this repo
 1. Run "hugo server" to build the static html and view on http://localhost:1313
 1. Make changes to Markdown/HTML files in content/
-1. Static files (CSS/CS/images which will be copied as-is to pubilc/) are in static/
+1. Static files (CSS/JS/images which will be copied as-is to pubilc/) are in static/
 1. Run ./01-publish.sh to auto run git commit public/ files and push to https://github.com/poornalayam/poornalayam.github.io
 
 # TODO
