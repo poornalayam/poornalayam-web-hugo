@@ -14,7 +14,7 @@ pages:
   script:
   - rm -rf public/* /tmp/hugo*
   - hugo
-  - 10-deploy-ghp.sh
+  - ./10-deploy-ghp.sh
   artifacts:
     paths:
     - public
