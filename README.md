@@ -1,13 +1,26 @@
 # Poornalayam Website Hugo source
 
-# Website Build Instructions
+[![pipeline status](https://gitlab.com/poornalayam/poornalayam/badges/master/pipeline.svg)](https://gitlab.com/poornalayam/poornalayam/commits/master)
 
-1. Download Hugo from https://gohugo.io
+# Automatic Website Publishing
+
+1. Edit talks content in the [master branch](https://gitlab.com/poornalayam/poornalayam/tree/master) via the web interface
+1. Sidebar widgets: [Download Latest Talks](https://gitlab.com/poornalayam/poornalayam/blob/master/layouts/partials/widgets/downloadlatesttalks.html), [Announcements](https://gitlab.com/poornalayam/poornalayam/blob/master/layouts/partials/widgets/announcements.html)
+1. Save and commit to the master branch
+1. GitLab CI/CD pipeline will automatically run Hugo and publish files to GitLab Pages
+1. The pipeline will also push changes to [Poornalayam GitHub Pages repo](https://github.com/poornalayam/poornalayam.github.io)
+1. Status of the pipeline can be monitored on the [jobs dashboard](https://gitlab.com/poornalayam/poornalayam/-/jobs)
+1. Changes made to the [GitLab hugo repo](https://gitlab.com/poornalayam/poornalayam) will be automatically pushed to the [GitHub hugo repo](https://github.com/poornalayam/poornalayam-web-hugo)
+
+# Manual Website Build Instructions
+
+1. [Download Hugo](https://github.com/gohugoio/hugo/releases) tested against [v0.38.2](https://github.com/gohugoio/hugo/releases/tag/v0.38.2)
 1. Clone this repo
-1. Run "hugo server" to build the static html and view on http://localhost:1313
+1. Run "hugo server" to build the static website and view on http://localhost:1313
 1. Make changes to Markdown/HTML files in content/
-1. Static files (CSS/JS/images which will be copied as-is to pubilc/) are in static/
-1. Run ./01-publish.sh to auto run git commit public/ files and push to https://github.com/poornalayam/poornalayam.github.io
+1. Static files CSS/JS/images/etc from static/ folder will be copied as-is to pubilc/
+1. Run "hugo" to build the static site in the public/ folder
+1. Sometimes /home/ is broken, to fix run: rm -rf public/* /tmp/hugo_cache; hugo
 
 # TODO
 1. layouts/partials/breadcrumbs.html -- have to set page titles in breadcrumbs, whitespace below to be increased
