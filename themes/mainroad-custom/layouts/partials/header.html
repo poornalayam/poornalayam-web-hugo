@@ -12,8 +12,10 @@
 <link rel="dns-prefetch" href="//fonts.gstatic.com" />
 {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}">{{ end }}
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" media="all">
-<link rel="stylesheet" href="{{ "css/style.css" | relURL }}" type="text/css" media="all" />
-<script type="text/javascript" src="{{ "js/scripts.js" | relURL }}"></script>
+{{ $styles := resources.Get "css/style.css" | minify }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" type="text/css" media="all" />
+{{ $js := resources.Get "js/scripts.js" | minify }}
+<script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 {{ template "_internal/google_analytics_async.html" . }}
 </head>

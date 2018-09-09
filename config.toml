@@ -5,6 +5,7 @@ theme = "mainroad-custom"
 disableKinds = ["home", "sections", "taxonomy", "taxonomyTerm", "RSS"]
 googleAnalytics = ""
 enableRobotsTXT = true
+assetDir = "static"
 
 [sitemap]
     changefreq = "weekly"
