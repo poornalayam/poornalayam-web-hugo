@@ -20,7 +20,7 @@ pages:
   - git --git-dir public/.git config user.name  "$GITNAME"
   - git --git-dir public/.git checkout master
   - rm -rf public/* /tmp/hugo_cache
-  - hugo
+  - hugo --minify
   - git --git-dir public/.git add .
   - git --git-dir public/.git commit -m "rebuilding site `date`"
   - git --git-dir public/.git push https://$GHUSER:$GH_TOKEN@github.com/${GHUSER}/${GHREPO}
