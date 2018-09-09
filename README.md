@@ -34,7 +34,6 @@
 # Theme Customisations
 1. themes/mainroad-custom/layouts/_default/single.html -- uses breadcrumbs partial
 1. themes/mainroad-custom/layouts/_default/list.html -- list pages also use single.html layout
-2. layouts/partials/widgets/*.html -- added announcements, news, download latest talks widgets
-3. themes/mainroad-custom/static -> assets -- renamed this folder for Hugo Pipeline, assetDir does not work with theme folders
-4. mainroad theme CSS has been fully customized, any updates to upstream must be merged manually
-5.  
+1. layouts/partials/widgets/*.html -- added announcements, news, download latest talks widgets
+1. themes/mainroad-custom/static -> assets -- renamed this folder for Hugo Pipeline, assetDir does not work with theme folders
+1. mainroad theme CSS has been fully customized, any updates to upstream must be merged manually
