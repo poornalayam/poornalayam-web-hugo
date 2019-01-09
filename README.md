@@ -14,13 +14,14 @@
 
 # Manual Website Build Instructions
 
-1. [Download Hugo](https://github.com/gohugoio/hugo/releases) tested against [v0.38.2](https://github.com/gohugoio/hugo/releases/tag/v0.38.2)
+1. [Download Hugo](https://github.com/gohugoio/hugo/releases) tested against [v0.53](https://github.com/gohugoio/hugo/releases/tag/v0.53)
 1. Clone this repo
 1. Run "hugo server" to build the static website and view on http://localhost:1313
 1. Make changes to Markdown/HTML files in content/
 1. Static files CSS/JS/images/etc from static/ folder will be copied as-is to pubilc/
 1. Run "hugo" to build the static site in the public/ folder
 1. Sometimes /home/ is broken, to fix run: rm -rf public/* /tmp/hugo_cache; hugo
+1. Hugo Pipes are fully supported to minify and bundle HTML, CSS and JS
 
 # TODO
 1. layouts/partials/breadcrumbs.html -- have to set page titles in breadcrumbs, whitespace below to be increased
@@ -30,6 +31,7 @@
 1. nested menus not working
 1. ~~classes-recorded/* pages, finished upto Bhagavad Gita Ch 03~~ -- completed
 1. ~~Redirect / /home, or create a custom landing page~~ -- static/index.html redirects to /home
+1. Manually merge upstream updates from newer [mainroad theme](https://github.com/Vimux/Mainroad) 
 
 # Theme Customisations
 1. themes/mainroad-custom/layouts/_default/single.html -- uses breadcrumbs partial
