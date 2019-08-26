@@ -7,9 +7,9 @@ You are invited to listen to Vedanta classes conducted by Swami Guruparananda in
 
 Swami Guruparananda, a traditional teacher of Vedanta, is a disciple of Swami Paramarthananda. Swamiji teaches the Upanishads, the Gita and other Vedantic Texts, in Tamil. Learn more [about Swamiji](/home/about-swamiji/).
 
-The [message](/home/swamijis-message/) given by Swamiji guides the listeners to progress steadily in their study of Vedanta.
+The [message given by Swamiji](/home/swamijis-message/) guides the listeners to progress steadily in their study of Vedanta.
 
-The [Poornalayam Catalogue (பட்டியல்) 2018](/files/poornalayam-catalogue-2018.pdf) contains a complete list of Swamiji's books and classes.
+The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji's books and classes.
 
 [All Swamiji's classes](/classes-recorded/) have been classified under the following topics:
 
