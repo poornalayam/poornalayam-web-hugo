@@ -18,8 +18,7 @@ assetDir = "static"
 [Params.widgets]
     search = true
     announcements = true
-    news = true
-    downloadlatesttalks = true
+    sitemap = true
 
 [[menu.main]]
     name = "Home"
