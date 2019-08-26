@@ -45,6 +45,7 @@ Sub talks:
         <li><a href="/classes-recorded/vedantic-texts/uddhava-gita/">Uddhava Gita (உத்தவ கீதை)</a></li>
         <li><a href="/classes-recorded/vedantic-texts/kasi-panchakam/">Kasi Panchakam (காசி பஞ்சகம்)</a></li>
         <li><a href="/classes-recorded/vedantic-texts/advaita-pancharatnam/">Advaita Pancharatnam (அத்வைத பஞ்சரத்னம்)</a></li>
-        <li><a href="/classes-recorded/vedantic-texts/nava-yogi-samvadham/">Nava Yogi Samvadham (நவ யோகி ஸம்வாதம்)</a></li>
         <li><a href="/classes-recorded/vedantic-texts/yati-panchakam/">Yati Panchakam (யதி பஞ்சகம்)</a></li>
+        <li><a href="/classes-recorded/vedantic-texts/nava-yogi-samvadham/">Nava Yogi Samvadham (நவ யோகி ஸம்வாதம்)</a></li>
+        <li><a href="/classes-recorded/vedantic-texts/maaya-panchakam/">Maaya Panchakam (மாயா பஞ்சகம்)</a></li>
 </ol>
