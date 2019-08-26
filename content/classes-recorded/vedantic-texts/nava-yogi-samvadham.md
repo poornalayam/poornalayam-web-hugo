@@ -2,7 +2,7 @@
 title: Nava Yogi Samvadham (நவ யோகி ஸம்வாதம்)
 type: page
 name: nava-yogi-samvadham
-weight: 210
+weight: 220
 archiveitemid: NavaYogiSamvadham
 ---
 
