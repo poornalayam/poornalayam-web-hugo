@@ -38,5 +38,6 @@ Class 21 | {{< archive "PD_21_Panchadasi_Chap_XI.mp3" >}} | {{< yt "rEJULrwi2Cs"
 Class 22 | {{< archive "PD_22_Panchadasi_Chap_XI.mp3" >}} | {{< yt "idH35RDaan4" >}}
 Class 23 | {{< archive "PD_23_Panchadasi_Chap_XI.mp3" >}} | {{< yt "Cnq1ylF7_Kg" >}}
 Class 24 | {{< archive "PD_24_Panchadasi_Chap_XI.mp3" >}} | {{< yt "kWVu1ahC474" >}}
-Class 24 | {{< archive "PD_25_Panchadasi_Chap_XI.mp3" >}} | {{< yt "ibR7aUX-PPo" >}}
-
+Class 25 | {{< archive "PD_25_Panchadasi_Chap_XI.mp3" >}} | {{< yt "ibR7aUX-PPo" >}}
+Class 26 | {{< archive "PD_26_Panchadasi_Chap_XI.mp3" >}} | {{< yt "b5aAn36xmFs" >}}
+Class 27 | {{< archive "PD_27_Panchadasi_Chap_XI.mp3" >}} | {{< yt "JVpuftvUdGE" >}}
