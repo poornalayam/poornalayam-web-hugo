@@ -12,7 +12,6 @@ Listen via {{< ytpl "PLFhE-jwdLAYGtsAY6miwr7iCXdJNrwnrx" >}} {{< itunes "essence
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
-CLASS NAME | {{< archive "CLASS NAME" >}} | {{< yt "CLASS NAME" >}}
 Class 01 | {{< archive "Essence_Of_Kaivalya_Upanishad_01.mp3" >}} | {{< yt "Vk0NzuPcTwI" >}}
 Class 02 | {{< archive "Essence_Of_Kaivalya_Upanishad_02.mp3" >}} | {{< yt "gM8LT5hE3sg" >}}
 Class 03 | {{< archive "Essence_Of_Kaivalya_Upanishad_03.mp3" >}} | {{< yt "eb0V3QdJq0Q" >}}
