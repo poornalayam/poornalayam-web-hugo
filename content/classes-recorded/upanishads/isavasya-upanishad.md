@@ -8,7 +8,7 @@ archiveitemid: IsavasyaUpanishadClasses
 
 This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. A form of meditation and prayer occur at the end of this Upanishad.
 
-Accompanying text for [Isavasya Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/07_Isavasya_Upanishad.pdf) is available for download.
+Accompanying text for [Isavasya Upanishad](https://archive.org/download/UpanishadsTamil/07_Isavasya_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYFYgJDGRXnKZcUdION0ihA0" >}} {{< itunes "isavasya-upanishad/id879268728" >}}
 

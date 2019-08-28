@@ -8,7 +8,7 @@ archiveitemid: NavaYogiSamvadham
 
 This text is based on the conversation between the king Nimi and the Nine Sages. This text comes under Bagavathapuranam.
 
-Accompanying text can be found at [Nava Yogi Samvadham UG 02-05](https://media.poornalayam.org/download/VedanticTexts/Jayanteya-Gita-UG-02-05.pdf).
+Accompanying text can be found at [Nava Yogi Samvadham UG 02-05](https://archive.org/download/VedanticTexts/Jayanteya-Gita-UG-02-05.pdf).
 
 Listen via {{< ytpl "PLFhE-jwdLAYGr4G3g0wplDWep8cd3v6eu" >}}
 

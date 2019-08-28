@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh02
 
 This chapter is called Sankhya-yoga. The four main topics of this chapter are Arjunasaranagati, Sankhya-yoga, Karma-yoga and Sthitaprajna Lakshana.
 
-The summary of [Bhagavad Gita – Chapter 2](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_02.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 2](https://archive.org/download/BhagavadGitaSummary/BG_02.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 02](https://archive.org/details/BhagavadGitaCh02) page on The Internet Archive.
 

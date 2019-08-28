@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh10
 
 The main theme of this chapter being the Lord’s glories, this chapter is called Vibhuti-yoga.
 
-The summary of [Bhagavad Gita – Chapter 10](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_10.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 10](https://archive.org/download/BhagavadGitaSummary/BG_10.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 10 page](https://archive.org/details/BhagavadGitaCh10) on The Internet Archive.
 

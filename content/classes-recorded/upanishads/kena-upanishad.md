@@ -8,7 +8,7 @@ archiveitemid: KenaUpanishad
 
 This Upanishad begins with the highest truth, viz., the underlying oneness of the Lord and the beings. Towards the end of the Upanishad, a few values are conveyed by narrating a story.
 
-Accompanying text for [Kena Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/03_Kena_Upanishad.pdf) is available for download.
+Accompanying text for [Kena Upanishad](https://archive.org/download/UpanishadsTamil/03_Kena_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYGzBlscdFiz9i5zc35H6m6W" >}} {{< itunes "kena-upanishad/id879268852" >}}
 

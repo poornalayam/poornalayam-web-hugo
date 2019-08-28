@@ -10,7 +10,7 @@ Kasi Panchakam is a text consisting of 5 slokas supposed to be written by Sankar
 
 In these 5 verses Sankaracharya brings out the core of vedanta.
 
-Accompanying text for [Kasi Panchakam](https://media.poornalayam.org/download/VedanticTexts/Kasi_Panchakam.pdf) is available for download.
+Accompanying text for [Kasi Panchakam](https://archive.org/download/VedanticTexts/Kasi_Panchakam.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYHyWRS5KEWoJKbQaZJrCqH4" >}} {{< itunes "kasi-panchakam/id879268831" >}}
 

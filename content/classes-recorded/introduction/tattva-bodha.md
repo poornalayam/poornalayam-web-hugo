@@ -8,7 +8,7 @@ archiveitemid: TattvaBodha
 
 This is a small text written by Shankaracharya. This text introduces the seeker to the technical terms used in Vedanta and gives a total vision of Vedanta. Traditionally, this text is studied prior to beginning a systematic study of Vedanta.
 
-Accompanying text for [Tattva Bodha](https://media.poornalayam.org/download/VedanticTexts/Tattvabodha.pdf) is available for download.
+Accompanying text for [Tattva Bodha](https://archive.org/download/VedanticTexts/Tattvabodha.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYE_-P8SwKKpxbL25gayAEyn" >}} {{< itunes "tattva-bodha/id879273679" >}}
 

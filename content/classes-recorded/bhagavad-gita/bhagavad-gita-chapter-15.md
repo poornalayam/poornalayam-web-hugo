@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh15
 
 This chapter is called Purusottama-yoga, since the main topic of this chapter is purusottama.
 
-The summary of [Bhagavad Gita – Chapter 15](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_15.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 15](https://archive.org/download/BhagavadGitaSummary/BG_15.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 15 page](https://archive.org/details/BhagavadGitaCh15) on The Internet Archive.
 

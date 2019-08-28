@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh09
 
 This chapter is called Rajavidyarajaguhya-yoga, since it deals with the knowledge of God which is the greatest (rajavidya) and the rarest (rajaguhya).
 
-The summary of [Bhagavad Gita – Chapter 9](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_09.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 9](https://archive.org/download/BhagavadGitaSummary/BG_09.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 09](https://archive.org/details/BhagavadGitaCh09) page on The Internet Archive.
 

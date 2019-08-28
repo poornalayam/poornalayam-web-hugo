@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh01
 
 This chapter is called Arjunavisada Yoga, since it deals primarily with Arjuna’s grief.
 
-The summary of [Bhagavad Gita – Chapter 1](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_01.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 1](https://archive.org/download/BhagavadGitaSummary/BG_01.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 01](https://archive.org/details/BhagavadGitaCh01) page on The Internet Archive.
 

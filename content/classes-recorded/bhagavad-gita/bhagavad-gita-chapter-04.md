@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh04
 
 The renunciation of all activities through the knowledge of the actionless 'I' amidst the activities of the body is the main topic of this chapter known by the name Jnanakarmasannyasa-yoga.
 
-The summary of [Bhagavad Gita – Chapter 4](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_04.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 4](https://archive.org/download/BhagavadGitaSummary/BG_04.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 04](https://archive.org/details/BhagavadGitaCh04) page on The Internet Archive.
 

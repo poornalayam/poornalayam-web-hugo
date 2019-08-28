@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh14
 
 The main topic of this chapter is the discrimination of the three gunas and the Self (purusa) and it is aptly called Gunatrayavibhaga-yoga.
 
-The summary of [Bhagavad Gita – Chapter 14](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_14.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 14](https://archive.org/download/BhagavadGitaSummary/BG_14.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 14 page](https://archive.org/details/BhagavadGitaCh14) on The Internet Archive.
 

@@ -8,7 +8,7 @@ archiveitemid: PanchadasiChapter11
 
 Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
 
-Accompanying text for [Panchadasi Chapter 11](https://media.poornalayam.org/download/Panchadasi/Panchadasi_Chapter_11.pdf) is available for download.
+Accompanying text for [Panchadasi Chapter 11](https://archive.org/download/Panchadasi/Panchadasi_Chapter_11.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYFfXh4s0u4YpaaqmAEcap7_" >}}
 

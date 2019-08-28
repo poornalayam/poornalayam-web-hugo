@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh13
 
 This chapter is called Ksetraksetrajnavibhaga-yoga, since the main topic of this chapter is the discrimination between the entire objective universe (ksetram) and the conscious principle that illumines the objective universe (ksetrajna). Another highlight of this chapter is the enumeration of some important values that prepare the mind to gain self-knowledge.
 
-The summary of [Bhagavad Gita – Chapter 13](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_13.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 13](https://archive.org/download/BhagavadGitaSummary/BG_13.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 13 page](https://archive.org/details/BhagavadGitaCh13) on The Internet Archive.
 

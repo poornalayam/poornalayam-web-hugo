@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh05
 
 The main topic being Sannyasa (renunciation), this chapter is called Sannyasa-yoga.
 
-The summary of [Bhagavad Gita – Chapter 5](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_05.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 5](https://archive.org/download/BhagavadGitaSummary/BG_05.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 05 page](https://archive.org/details/BhagavadGitaCh05) on The Internet Archive.
 

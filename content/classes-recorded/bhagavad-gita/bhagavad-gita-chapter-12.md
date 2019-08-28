@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh12
 
 This chapter is called Bhakti-yoga and deals with all the stages of Bhakti.
 
-The summary of [Bhagavad Gita – Chapter 12](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_12.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 12](https://archive.org/download/BhagavadGitaSummary/BG_12.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 12](https://archive.org/details/BhagavadGitaCh12) page on The Internet Archive.
 

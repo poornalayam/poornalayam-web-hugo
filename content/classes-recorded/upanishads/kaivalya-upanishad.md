@@ -8,7 +8,7 @@ archiveitemid: KaivalyaUpanishadClasses
 
 This Upanishad points out the essential oneness of the individual and the Lord. Contemplative meditation (Nidhidhyasanam) is emphasized as a means for establishing oneself in the highest truth.
 
-Accompanying text for [Kaivalya Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/05_Kaivalya_Upanishad.pdf) is available for download.
+Accompanying text for [Kaivalya Upanishad](https://archive.org/download/UpanishadsTamil/05_Kaivalya_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYH4VmYEjS9X8BJBuPua267A" >}} {{< itunes "kaivalya-upanishad/id879268791" >}}
 

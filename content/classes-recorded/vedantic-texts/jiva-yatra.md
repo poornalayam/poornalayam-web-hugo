@@ -8,7 +8,7 @@ archiveitemid: JivaYatra
 
 This text is written by Swami Gnanananda Bharati of Sringeri Mutt. The sadhanas necessary for a seeker are given step by step, in a simple form. These 6 talks explain this text in detail.
 
-Accompanying text for [Jiva Yatra](https://media.poornalayam.org/download/VedanticTexts/Jiva_Yatra.pdf) is available for download.
+Accompanying text for [Jiva Yatra](https://archive.org/download/VedanticTexts/Jiva_Yatra.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYEE9YZozTRase2QhZXMQTa0" >}} {{< itunes "jiva-yatra/id879269914" >}}
 

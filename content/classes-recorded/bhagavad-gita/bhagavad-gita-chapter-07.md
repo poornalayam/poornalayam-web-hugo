@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh07
 
 This chapter gets the name Jnanavijnana-yoga, since the knowledge of saguna-isvara (jnanam) and that of nirguna-isvara (vijnanam) are highlighted in this chapter.
 
-The summary of [Bhagavad Gita – Chapter 7](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_07.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 7](https://archive.org/download/BhagavadGitaSummary/BG_07.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 07 page](https://archive.org/details/BhagavadGitaCh07) on The Internet Archive.
 

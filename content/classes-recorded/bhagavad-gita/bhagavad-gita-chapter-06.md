@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh06
 
 Meditation being the main topic, this chapter is called Dhyana-yoga.
 
-The summary of [Bhagavad Gita – Chapter 6](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_06.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 6](https://archive.org/download/BhagavadGitaSummary/BG_06.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 06 page](https://archive.org/details/BhagavadGitaCh06) on The Internet Archive.
 

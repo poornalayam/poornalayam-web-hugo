@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh18
 
 This is the last chapter of the Bhagavad Gita and is called Mokshasannyasa-yoga, as it begins with Sannyasa, which is the means of liberation.  This chapter also contains the concluding remarks of Lord Krishna.
 
-The summary of [Bhagavad Gita – Chapter 18](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_18.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 18](https://archive.org/download/BhagavadGitaSummary/BG_18.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 18 page](https://archive.org/details/BhagavadGitaCh18) on The Internet Archive.
 

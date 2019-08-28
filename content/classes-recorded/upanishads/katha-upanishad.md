@@ -8,7 +8,7 @@ archiveitemid: KathaUpanishad
 
 This Upanishad begins with a story and through this story, many values are taught. The nature of the Lord and the individual being, is then, explained from various angles. It, thus, reveals the truth of how the Lord and the being are, in essence, one. Finally, the benefits of understanding the ultimate truth are explained from different angles.
 
-Accompanying text for [Katha Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/04_Katha_Upanishad.pdf) is available for download.
+Accompanying text for [Katha Upanishad](https://archive.org/download/UpanishadsTamil/04_Katha_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYG94tQO3v-fYxJVX8qzhGYI" >}} {{< itunes "katha-upanishad/id879271196" >}}
 

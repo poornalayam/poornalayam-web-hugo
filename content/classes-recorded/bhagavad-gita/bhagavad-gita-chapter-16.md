@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh16
 
 This chapter is called Daivasurasampadvibhaga-yoga since it deals with daiva (spiritual) and asura (materialistic) traits that are to be followed and to be avoided respectively, by a seeker.
 
-The summary of [Bhagavad Gita – Chapter 16](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_16.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 16](https://archive.org/download/BhagavadGitaSummary/BG_16.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 16 page](https://archive.org/details/BhagavadGitaCh16) on The Internet Archive.
 

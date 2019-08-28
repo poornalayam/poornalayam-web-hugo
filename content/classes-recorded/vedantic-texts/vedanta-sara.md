@@ -10,12 +10,12 @@ This Vedanta Sara text written by Swami Sadananda, who lived 500 years before, t
 
 Class text for Vedanta Sara (PDF):
 
-* [Chapter 1](https://media.poornalayam.org/download/VedantaSaram/VS_01.pdf)
-* [Chapter 2](https://media.poornalayam.org/download/VedantaSaram/VS_02.pdf)
-* [Chapter 3](https://media.poornalayam.org/download/VedantaSaram/VS_03.pdf)
-* [Chapter 4](https://media.poornalayam.org/download/VedantaSaram/VS_04.pdf)
-* [Chapter 5](https://media.poornalayam.org/download/VedantaSaram/VS_05.pdf)
-* [Chapter 6](https://media.poornalayam.org/download/VedantaSaram/VS_06.pdf)
+* [Chapter 1](https://archive.org/download/VedantaSaram/VS_01.pdf)
+* [Chapter 2](https://archive.org/download/VedantaSaram/VS_02.pdf)
+* [Chapter 3](https://archive.org/download/VedantaSaram/VS_03.pdf)
+* [Chapter 4](https://archive.org/download/VedantaSaram/VS_04.pdf)
+* [Chapter 5](https://archive.org/download/VedantaSaram/VS_05.pdf)
+* [Chapter 6](https://archive.org/download/VedantaSaram/VS_06.pdf)
 
 Listen via {{< ytpl "PLFhE-jwdLAYHZlXDgFun-bcGCY81rSmPq" >}} {{< itunes "vedanta-sara-classes/id879271791" >}}
 

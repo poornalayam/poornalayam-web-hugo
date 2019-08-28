@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh08
 
 This chapter is called Aksara-brahma-yoga, because Krishna begins the teaching with Aksara-brahman.
 
-The summary of [Bhagavad Gita – Chapter 8](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_08.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 8](https://archive.org/download/BhagavadGitaSummary/BG_08.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 08 page](https://archive.org/details/BhagavadGitaCh08) on The Internet Archive.
 

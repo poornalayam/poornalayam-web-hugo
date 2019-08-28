@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh11
 
 This chapter deals with the universal form of the Lord, and therefore, called Visvarupadarsana-yoga.
 
-The summary of [Bhagavad Gita – Chapter 11](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_11.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 11](https://archive.org/download/BhagavadGitaSummary/BG_11.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 11](https://archive.org/details/BhagavadGitaCh11) page on The Internet Archive.
 

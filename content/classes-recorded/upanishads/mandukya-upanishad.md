@@ -10,7 +10,7 @@ This is a small Upanishad. With the help of the syllable Om, this Upanishad expl
 
 These 110 talks explain, in detail, the Upanishad and the Karika.
 
-Accompanying text for [Mandukya Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/08_Mandukya_Upanishad.pdf) is available for download.
+Accompanying text for [Mandukya Upanishad](https://archive.org/download/UpanishadsTamil/08_Mandukya_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYGvMZ8ptzxkNrruulFzWFoO" >}} {{< itunes "mandukya-upanishad/id879272049" >}}
 

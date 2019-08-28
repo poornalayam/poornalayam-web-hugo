@@ -8,7 +8,7 @@ archiveitemid: DakshinamurtiStotram
 
 This stotram is written by Shankaracharya. Vedantic ideas are beautifully revealed in this stotram. These 9 talks explain this stotram in detail.
 
-Accompanying text for [Dakshinamurti Stotram](https://media.poornalayam.org/download/VedanticTexts/Dakshinamurti_Stotram.pdf) is available for download.
+Accompanying text for [Dakshinamurti Stotram](https://archive.org/download/VedanticTexts/Dakshinamurti_Stotram.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYFMED5rp7F3xkocFPBj5U97" >}} {{< itunes "dakshinamurti-stotram/id879266580" >}}
 

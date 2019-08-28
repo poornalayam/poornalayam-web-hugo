@@ -8,7 +8,7 @@ archiveitemid: AnandaKalipu
 
 This is a vedantic text written by the Tamil saint Thayumanavar. These 18 talks explain this text in detail.
 
-Accompanying text for [Ananda Kalipu](https://media.poornalayam.org/download/VedanticTexts/Ananda_Kalipu.pdf) is available for download.
+Accompanying text for [Ananda Kalipu](https://archive.org/download/VedanticTexts/Ananda_Kalipu.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYECX0ai1r8tkuJGUvXL634h" >}} {{< itunes "ananda-kalipu/id879266095" >}}
 

@@ -8,7 +8,7 @@ archiveitemid: TaittiriyaUpanishad
 
 This Upanishad contains 3 chapters. The first chapter deals with various forms of Meditation and some values. The second chapter reveals the true nature of God, World and the individual and their underlying oneness. The value of dispassion is stressed here. The third chapter consists of meditation, some values and finally the conclusion.
 
-Accompanying text for [Taittiriya Upanishad](https://media.poornalayam.org/download/UpanishadsTamil/06_Taittiriya_Upanishad.pdf) is available for download.
+Accompanying text for [Taittiriya Upanishad](https://archive.org/download/UpanishadsTamil/06_Taittiriya_Upanishad.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYGsdpuCyxGl6VvRcU1v1Svm" >}} {{< itunes "taittiriya-upanishad/id879271782" >}}
 

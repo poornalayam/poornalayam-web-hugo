@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh03
 
 Karma-yoga being the main topic, this chapter is called Karma-yoga.
 
-The summary of [Bhagavad Gita – Chapter 3](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_03.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 3](https://archive.org/download/BhagavadGitaSummary/BG_03.pdf), given by Swami Paramarthananda, is available for download.
 
 
 Visit the [Bhagavad Gita – Chapter 03](https://archive.org/details/BhagavadGitaCh03) page on The Internet Archive.

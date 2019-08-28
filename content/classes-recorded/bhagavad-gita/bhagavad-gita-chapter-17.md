@@ -8,7 +8,7 @@ archiveitemid: BhagavadGitaCh17
 
 The value of Sraddha is highlighted both at the beginning and at the end of this chapter. Therefore, it is called Sraddhatrayavibhaga-yoga.
 
-The summary of [Bhagavad Gita – Chapter 17](https://media.poornalayam.org/download/BhagavadGitaSummary/BG_17.pdf), given by Swami Paramarthananda, is available for download.
+The summary of [Bhagavad Gita – Chapter 17](https://archive.org/download/BhagavadGitaSummary/BG_17.pdf), given by Swami Paramarthananda, is available for download.
 
 Visit the [Bhagavad Gita – Chapter 17 page](https://archive.org/details/BhagavadGitaCh17) on The Internet Archive.
 

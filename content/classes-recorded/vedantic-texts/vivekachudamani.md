@@ -8,7 +8,7 @@ archiveitemid: VivekachudamaniClasses
 
 This is a text written by Shankaracharya. 108 selected verses from the text are explained in these 42 talks. All the vedantic ideas are explained in this text.
 
-Accompanying text for [Vivekachudamani](https://media.poornalayam.org/download/VedanticTexts/VivekaChudamani.pdf) is available for download.
+Accompanying text for [Vivekachudamani](https://archive.org/download/VedanticTexts/VivekaChudamani.pdf) is available for download.
 
 Listen via {{< ytpl "PLFhE-jwdLAYHOrfO37yN2caVtrL0JKmHE" >}} {{< itunes "vivekachudamani/id879271796" >}}
 
