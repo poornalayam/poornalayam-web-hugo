@@ -40,6 +40,10 @@ Sub talks:
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-09/">Panchadasi Chapter 09 (பஞ்சதசீ – அத்யாயம் 09)</a></li>
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-10/">Panchadasi Chapter 10 (பஞ்சதசீ – அத்யாயம் 10)</a></li>
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-11/">Panchadasi Chapter 11 (பஞ்சதசீ – அத்யாயம் 11)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-12/">Panchadasi Chapter 12 (பஞ்சதசீ – அத்யாயம் 12)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-13/">Panchadasi Chapter 13 (பஞ்சதசீ – அத்யாயம் 13)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-14/">Panchadasi Chapter 14 (பஞ்சதசீ – அத்யாயம் 14)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-15/">Panchadasi Chapter 15 (பஞ்சதசீ – அத்யாயம் 15)</a></li>
             </ol>
         </li>
         <li><a href="/classes-recorded/vedantic-texts/uddhava-gita/">Uddhava Gita (உத்தவ கீதை)</a></li>

@@ -6,7 +6,7 @@ name: classes-recorded
 
 Classes are provided in audio mp3 format for download from this website, in [YouTube Channel](https://www.youtube.com/user/swamiguruparananda) and also in [iTunes](https://itunes.apple.com/us/artist/poornalayam/id881211873?mt=2). Each class is of 60 minutes duration.
 
-The [Poornalayam Catalogue (பட்டியல்) 2018](/files/poornalayam-catalogue-2018.pdf) contains a complete list of Swamiji’s books and classes.
+The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji’s books and classes.
 
 {{< youtube P8z6L4SmpUc >}}
 
@@ -62,6 +62,10 @@ Classes have been classified under the following topics:
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-09/">Panchadasi Chapter 09 (பஞ்சதசீ – அத்யாயம் 09)</a></li>
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-10/">Panchadasi Chapter 10 (பஞ்சதசீ – அத்யாயம் 10)</a></li>
                 <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-11/">Panchadasi Chapter 11 (பஞ்சதசீ – அத்யாயம் 11)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-12/">Panchadasi Chapter 12 (பஞ்சதசீ – அத்யாயம் 12)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-13/">Panchadasi Chapter 13 (பஞ்சதசீ – அத்யாயம் 13)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-14/">Panchadasi Chapter 14 (பஞ்சதசீ – அத்யாயம் 14)</a></li>
+                <li><a href="/classes-recorded/vedantic-texts/panchadasi/panchadasi-chapter-15/">Panchadasi Chapter 15 (பஞ்சதசீ – அத்யாயம் 15)</a></li>
             </ol>
         </li>
         <li><a href="/classes-recorded/vedantic-texts/uddhava-gita/">Uddhava Gita (உத்தவ கீதை)</a></li>
