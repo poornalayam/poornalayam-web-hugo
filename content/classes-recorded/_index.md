@@ -8,7 +8,7 @@ Classes are provided in audio mp3 format for download from this website, in [You
 
 The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji’s books and classes.
 
-{{< youtube P8z6L4SmpUc >}}
+{{< youtube "bc0VN0ETmvI" >}}
 
 ## Class Topics
 
