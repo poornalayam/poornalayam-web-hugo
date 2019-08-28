@@ -10,7 +10,7 @@ It is true that money has buying power and can buy material comforts and materia
 
 The mastery of any subject is possible only through the guidance of a teacher. A thorough understanding of our philosophical texts also calls for such guidance. By listening to an acharya consistently and for a length of time, we gain an in-depth knowledge of our Vedantic scriptures, which enlighten us on ethics and the reality of our mind, emotions, the world and the divine.
 
-For the benefit of ardent seekers, the Vedanta classes, in their entirety, have been put up in this website. As on date there are more than 1600 classes and the ongoing classes are also being uploaded to the website, on a regular basis.
+For the benefit of ardent seekers, the Vedanta classes, in their entirety, have been put up in this website. Totally 2170 Audio Classes and 198 Video Classes are uploaded to the website.
 
 The classes have been uploaded in a certain order with the intent of making it easier for seekers, at every stage of learning, to understand the central theme of Vedanta. It will be beneficial, if one listens to the classes as per the guidance given below.
 
@@ -18,7 +18,7 @@ Those who have just begun listening to Vedanta, may begin by listening to the Ge
 
 A moderately evolved seeker, can progress further by listening to the classes that introduce the subject matter of Vedanta. 'Introduction to Vedanta' and 'Tattva Bodha', an introductory Vedantic Text, will familiarise us with important Sanskrit terms used in the Upanishads and other Vedantic Texts, which have a unique meaning in the context of Vedanta. Some of the talks classified under Vedantic Texts, like Sadhana Panchakam, Jiva Yatra and Viveka Chudamani, will also be of help to a seeker at this stage.
 
-One can then move on to a study of the Bhagavad Gita, to gain a comprehensive understanding of Vedanta. Bhagavad Gita gives the essence of the entire Veda and educates us on ethics and reality through Lord Krishna's teachings to Arjuna. One may take to an elaborate study of the Gita and listen to all the 322 classes of the Bhagavad Gita. Thus, one can gain an exhaustive knowledge of the Gita. Alternately, one may begin by listening to the 'Essence of Gita' classes and gain a precise understanding of the Gita, before embarking on an elaborate study. The Gist of Gita is a recording of ongoing classes that are conducted every year at Erode.
+One can then move on to a study of the Bhagavad Gita, to gain a comprehensive understanding of Vedanta. Bhagavad Gita gives the essence of the entire Veda and educates us on ethics and reality through Lord Krishna's teachings to Arjuna. One may take to an elaborate study of the Gita and listen to all the 322 classes of the Bhagavad Gita. Thus, one can gain an exhaustive knowledge of the Gita. Alternately, one may begin by listening to the 'Essence of Gita' classes and gain a precise understanding of the Gita, before embarking on an elaborate study. The Gist of Gita is a recording of classes that were conducted yearly at Erode.
 
 After studying the Bhagavad Gita and a few Vedantic texts, a seeker is qualified to study the Upanishads. One may begin the study of the Upanishads starting from the Mundaka Upanishad, followed by Kena Upanishad, Katha Upanishad, and so on, in the order in which they have been presented under the Upanishad section.
 
@@ -39,7 +39,7 @@ Swami Guruparananda.
 
 எந்தத் துறையிலும், ஒரு ஆசிரியரின் வழிகாட்டுதல் மூலமே முழுமையான தேர்ச்சியை அடைய இயலும். தத்துவ நூல்களைப் பற்றிய  தெளிவான  அறிவிற்கும் அத்தகைய வழிகாட்டுதல் அவசியம் தேவை.  ஒரு வேதாந்த ஆசிரியரிடம் பல காலம், தொடர்ந்து சாஸ்த்ரங்களைக் கேட்பதன்  மூலம், அறநெறியைப் பற்றியும்  நம் மனதின் தன்மைகள், இவ்வுலகம் மற்றும் இறைவன் ஆகியவற்றின் உண்மைத் தன்மையைப் பற்றியும் எடுத்துரைக்கும் வேதாந்த சாஸ்த்ரத்தில் ஆழ்ந்த அறிவைப் பெற முடியும்.
 
-ஆன்மீகத்தில் ஆழ்ந்த ஈடுபாடுடைய ஸாதகர்கள் பயன் பெறும் வகையில், வேதாந்த வகுப்புகள் அனைத்தும், இவ்வலைத்தளத்தில் கொடுக்கப்பட்டுள்ளன. தற்போது சுமார் 1600 வகுப்புகள் இந்த வலைத்தளத்தில் உள்ளன. தற்சமயம் நடந்துகொண்டிருக்கும் வகுப்புகளும் தொடர்ந்து வலைத்தளத்தில் ஏற்றப்படுகின்றன.
+ஆன்மீகத்தில் ஆழ்ந்த ஈடுபாடுடைய ஸாதகர்கள் பயன் பெறும் வகையில், வேதாந்த வகுப்புகள் அனைத்தும், இவ்வலைத்தளத்தில் கொடுக்கப்பட்டுள்ளன. இந்த வைலத்தளத்தில் 2170 Audio வகுப்புகளும், 198 Video வகுப்புகளும் உள்ளன.
 
 ஸாதகர்கள் வேதாந்தத்தின் மையக் கருத்தை நன்கு புரிந்துகொள்ள வேண்டும் என்ற நோக்கத்துடன், வகுப்புகள் அனைத்தும் ஒரு குறிப்பிட்ட வகையில் வரிசைப்படுத்தப்பட்டு வலைத்தளத்தில் ஏற்றப்பட்டுள்ளன. இங்கு கொடுக்கப்பட்டுள்ள வழிகாட்டுதலை ஒட்டி ஒருவர் வகுப்புகளைக் கேட்பது மிகுந்த பயனளிக்கும்.
 
@@ -47,7 +47,7 @@ Swami Guruparananda.
 
 ஓரளவு பக்குவமடைந்த ஸாதகர், வேதாந்த வகுப்புகளைக் கேட்பதன் மூலம் மேலும் முன்னேறலாம். வேதாந்தத்திற்கு ஓர் அறிமுகம் (Introduction to Vedanta), வேதாந்தப் பாடங்களின் அடிப்படை நூலான தத்துவ போதம் ஆகிய பாடங்களைக் கேட்பதால், உபநிஷத்துக்கள் மற்றும் வேதாந்த நூல்களில் பொதுவாக பயன்படுத்தப்படும் பல முக்கியமான ஸம்ஸ்க்ருத சொற்கள் நமக்குத்  தெளிவாகும். சில சொற்களுக்கு வேதாந்த பாடங்களில் சிறப்பான அர்த்தங்கள் இருக்கும், அவற்றையும் நாம் இந்த வகுப்புகளிலிருந்து அறிந்துகொள்ளலாம்.  ஸாதன பஞ்சகம், ஜீவ யாத்ரா, விவேக சூடாமணி முதலிய நூல்களும் இந்நிலையில் உள்ள  சாதகர்களுக்கு உதவியாக இருக்கும்.
 
-அடுத்தபடியாக, வேதாந்தத்தின் மையக் கருத்தை நன்கு தெளிவாக அறிந்துகொள்ள, பகவத்கீதை வகுப்புகளைக் கேட்கத் துவங்கலாம். பகவான் ஸ்ரீகிருஷ்ணர் அர்ஜுனனுக்கு உபதேசித்த வேதத்தின் ஸாரமான பகவத்கீதையின்மூலம் தர்மத்தைப் பற்றியும் மெய்ப் பொருளைப் பற்றியும் அறிந்துகொள்ளலாம். 322  வகுப்புகளையும் முறையாகக் கேட்பதன் மூலம் பகவத்கீதையை விரிவாகக் கற்று, கீதையின் ஆழமான பொருளை அறிந்து கொள்ளலாம்.  அல்லது, கீதையின் விரிவான வகுப்புகளைக் கேட்பதற்கு முன், கீதையின் ஸாரம்  (Essence of Gita) என்ற தலைப்பில் உள்ள வகுப்புகளைக் கேட்டு கீதையின் ஸாரத்தை சுருக்கமாகப் புரிந்து கொள்ளலாம். கீதையின் சுருக்கம் (Gist of Gita) என்பது தற்போது ஆண்டுதோறும் ஈரோட்டில் நிகழ்ந்துவரும் வகுப்புகளின்  பதிவாகும்.
+அடுத்தபடியாக, வேதாந்தத்தின் மையக் கருத்தை நன்கு தெளிவாக அறிந்துகொள்ள, பகவத்கீதை வகுப்புகளைக் கேட்கத் துவங்கலாம். பகவான் ஸ்ரீகிருஷ்ணர் அர்ஜுனனுக்கு உபதேசித்த வேதத்தின் ஸாரமான பகவத்கீதையின்மூலம் தர்மத்தைப் பற்றியும் மெய்ப் பொருளைப் பற்றியும் அறிந்துகொள்ளலாம். 322  வகுப்புகளையும் முறையாகக் கேட்பதன் மூலம் பகவத்கீதையை விரிவாகக் கற்று, கீதையின் ஆழமான பொருளை அறிந்து கொள்ளலாம்.  அல்லது, கீதையின் விரிவான வகுப்புகளைக் கேட்பதற்கு முன், கீதையின் ஸாரம்  (Essence of Gita) என்ற தலைப்பில் உள்ள வகுப்புகளைக் கேட்டு கீதையின் ஸாரத்தை சுருக்கமாகப் புரிந்து கொள்ளலாம். கீைதயின் சுருக்கம் (Gist of Gita) என்பதுஆண்டுேதாறும் ஈேராட்டில் நிகழ்த்திய வகுப்புகளின் பதிவாகும்.
 
 பகவத் கீதையையும், சில வேதாந்த நூல்களையும்  கற்ற பிறகு, ஒருவர் உபநிஷத்துக்களை கற்பதற்கு தகுதியுடையவர் ஆகிறார். உபநிஷத் பகுதியில், முதலில் முண்டக உபநிஷதம், பிறகு கேன உபநிஷதம், கட உபநிஷதம் என வலைத்தளத்தில் கொடுக்கப்பட்டுள்ள வரிசையிலேயே கேட்கலாம்.
 
