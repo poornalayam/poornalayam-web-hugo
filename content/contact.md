@@ -21,5 +21,6 @@ Google Maps location: https://goo.gl/maps/DJEbXbx8tUR2
 
 
 ## Email and Phone
-poornalayam@gmail.com
-Contact cell phone: +91 94456 74751, +91 99417 48596 (9am to 6pm India time)..
+<a href="mailto:poornalayam@gmail.com">poornalayam@gmail.com</a>
+
+Contact cell phone: <a href="tel:+919445674751">+91 94456 74751</a>, <a href="tel:+919941748596">+91 99417 48596</a> (9am to 6pm India time).
