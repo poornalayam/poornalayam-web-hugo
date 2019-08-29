@@ -5,7 +5,7 @@ name: books
 ---
 
 ## Catalogue (பட்டியல்) 2018
-The Poornalayam Catalogue (பட்டியல்) 2018 contains a complete list of Swamiji’s books and classes.
+The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji’s books and classes.
 
 ## I – Books
 The following books written by Swamiji are available for download and for purchase in printed form:
