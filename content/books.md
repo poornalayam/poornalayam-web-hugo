@@ -11,18 +11,18 @@ The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-c
 The following books written by Swamiji are available for download and for purchase in printed form:
 
 <ul>
-   <li><a href="/wp-content/uploads/aanmeeka-padaiyil-book-tamil.pdf">ஆன்மீகப் பாதையில்</a></li>
-   <li><a href="/wp-content/uploads/human-values-book-tamil.pdf">நற்பண்புகள்</a></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/aanmeeka-padaiyil-book-tamil.pdf">ஆன்மீகப் பாதையில்</a></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/human-values-book-tamil.pdf">நற்பண்புகள்</a></li>
    <li><a href="https://archive.org/download/UpanishadsTamil/Upanishads_Full_Book.pdf">உபநிஷத்துக்கள்</a> <small>(File size – 273 MB )</small></li>
-   <li><a href="/wp-content/uploads/shanti-pata-mantras-tamil.pdf">சாந்தி பாடங்கள்</a></li>
-   <li><a href="/wp-content/uploads/dhyaana-payirchi.pdf">தியானப்பயிற்சி</a></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/shanti-pata-mantras-tamil.pdf">சாந்தி பாடங்கள்</a></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/dhyaana-payirchi.pdf">தியானப்பயிற்சி</a></li>
 </ul>
 
 English translation of these books are available only for download:
 
 <ul>
-   <li><a href="/wp-content/uploads/InThePathOfSpirituality.pdf">In the Path of Spiritualit</a><a href="/wp-content/uploads/InThePathOfSpirituality.pdf">y</a>&nbsp;<small>[ஆன்மீகப் பாதையில்]</small></li>
-   <li><a href="/wp-content/uploads/human-values-book-english.pdf">Human Values</a> <small>[நற்பண்புகள்]</small></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/InThePathOfSpirituality.pdf">In the Path of Spirituality</a><a href="https://archive.org/download/PoornalayamBooks/InThePathOfSpirituality.pdf">y</a>&nbsp;<small>[ஆன்மீகப் பாதையில்]</small></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/human-values-book-english.pdf">Human Values</a> <small>[நற்பண்புகள்]</small></li>
 </ul>
 
 ## II – Texts
@@ -38,7 +38,7 @@ The following subjects taken by Swamiji are available in text form for download:
       <li><a href="https://archive.org/download/UpanishadsTamil/06_Taittiriya_Upanishad.pdf">Taittiriya Upanishad</a></li>
       <li><a href="https://archive.org/download/UpanishadsTamil/07_Isavasya_Upanishad.pdf">Isavasya Upanishad</a></li>
       <li><a href="https://archive.org/download/UpanishadsTamil/08_Mandukya_Upanishad.pdf">Mandukya Upanishad</a></li>
-      <li>Mandukya Upanishad With Gowdapadha Karika <a href="https://archive.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_1_of_4.pdf">Part 1</a> <a href="https://media.poornalayam.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_2_of_4.pdf">Part 2</a> <a href="https://media.poornalayam.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_3_of_4.pdf">Part 3</a> <a href="https://media.poornalayam.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_4_of_4.pdf">Part 4</a></li>
+      <li>Mandukya Upanishad With Gowdapadha Karika <a href="https://archive.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_1_of_4.pdf">Part 1</a> <a href="https://archive.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_2_of_4.pdf">Part 2</a> <a href="https://archive.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_3_of_4.pdf">Part 3</a> <a href="https://archive.org/download/MandukyaUpanishadGowdapadhaKarika/Mandukya_Upanishad_with_Gowdapadha_Karika_Tamil_4_of_4.pdf">Part 4</a></li>
       <li><a href="https://archive.org/download/UpanishadsTamil/00_Upanishads_Title_Pages.pdf">Upanishads Book Title Pages</a></li>
       <li><a href="https://archive.org/download/UpanishadsTamil/01_Upanishads_Preface.pdf">Upanishads Book Preface</a></li>
       <li><a href="https://archive.org/download/UpanishadsTamil/Upanishads_Full_Book.pdf">Upanishads Full Book</a></li>
