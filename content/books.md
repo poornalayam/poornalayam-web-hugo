@@ -21,7 +21,7 @@ The following books written by Swamiji are available for download and for purcha
 English translation of these books are available only for download:
 
 <ul>
-   <li><a href="https://archive.org/download/PoornalayamBooks/InThePathOfSpirituality.pdf">In the Path of Spirituality</a><a href="https://archive.org/download/PoornalayamBooks/InThePathOfSpirituality.pdf">y</a>&nbsp;<small>[ஆன்மீகப் பாதையில்]</small></li>
+   <li><a href="https://archive.org/download/PoornalayamBooks/InThePathOfSpirituality.pdf">In the Path of Spirituality</a>&nbsp;<small>[ஆன்மீகப் பாதையில்]</small></li>
    <li><a href="https://archive.org/download/PoornalayamBooks/human-values-book-english.pdf">Human Values</a> <small>[நற்பண்புகள்]</small></li>
 </ul>
 
