@@ -45,9 +45,9 @@ assetDir = "static"
     weight = 3
 
 [[menu.main]]
-    name = "Contribute"
-    url = "/contribute/"
-    identifier = "contribute"
+    name = "Contribution"
+    url = "/contribution/"
+    identifier = "contribution"
     weight = 4
 
 [[menu.main]]
