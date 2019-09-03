@@ -4,7 +4,7 @@ type: page
 name: books
 ---
 
-## Catalogue (பட்டியல்) 2018
+## Catalogue (பட்டியல்) 2019
 The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji’s books and classes.
 
 ## I – Books
