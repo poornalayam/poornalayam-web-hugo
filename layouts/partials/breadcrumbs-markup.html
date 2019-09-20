@@ -6,7 +6,7 @@
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $myScratch.Add "path" .Site.BaseURL }}
 
-{{ $myScratch.Add "breadcrumb" (slice (dict "item" .Site.BaseURL "name" "Home" "position" 1 "@type" "ListItem" )) }}
+{{ $myScratch.Add "breadcrumb" (slice (dict "item" ( add .Site.BaseURL "home/" ) "name" "Home" "position" 1 "@type" "ListItem" )) }}
 
 {{ range $index, $element := split $url "/" }}
   {{ $myScratch.Add "path" $element }}
