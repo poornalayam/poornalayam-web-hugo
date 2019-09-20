@@ -1,6 +1,6 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 # Later versions of hugo docker image don't contain git binaries
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+image: registry.gitlab.com/pages/hugo_extended:0.58.3
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -16,12 +16,15 @@ test:
   - master
 
 pages:
+  before_script:
+  - apk add --update --no-cache git
+
   script:
   - git --git-dir public/.git config user.email "$GITEMAIL"
   - git --git-dir public/.git config user.name  "$GITNAME"
   - git --git-dir public/.git checkout master
   - rm -rf public/* /tmp/hugo_cache
-  - hugo --minify
+  - hugo --minify --enableGitInfo
   - git --git-dir public/.git add .
   - git --git-dir public/.git commit -m "rebuilding site `date`"
   - git --git-dir public/.git push https://$GHUSER:$GH_TOKEN@github.com/${GHUSER}/${GHREPO}
