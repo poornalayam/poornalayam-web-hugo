@@ -18,6 +18,8 @@
 <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 {{ template "_internal/google_analytics_async.html" . }}
+
+{{ partial "breadcrumbs-markup.html" . }}
 </head>
 <body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }} mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 	<div class="container container-outer">
