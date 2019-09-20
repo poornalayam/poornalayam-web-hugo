@@ -1,6 +1,6 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 # Later versions of hugo docker image don't contain git binaries
-image: registry.gitlab.com/pages/hugo_extended:0.58.3
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.58.3
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
