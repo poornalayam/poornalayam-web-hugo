@@ -3,6 +3,7 @@ title: Gist of Gita (கீதையின் சுருக்கம்)
 type: page
 name: gist-of-gita
 weight: 210
+archiveitemid: GistOfGita
 ---
 
 All 18 chapters of the Bhagavad Gita have been covered in this talk. The main ideas of each chapter and the important verses in each chapter are explained in this series of talks.
