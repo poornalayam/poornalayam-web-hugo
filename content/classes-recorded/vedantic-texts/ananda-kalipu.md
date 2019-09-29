@@ -4,6 +4,7 @@ type: page
 name: ananda-kalipu
 weight: 110
 archiveitemid: AnandaKalipu
+rssfilename: AnandaKalipu.xml
 ---
 
 This is a vedantic text written by the Tamil saint Thayumanavar. These 18 talks explain this text in detail.

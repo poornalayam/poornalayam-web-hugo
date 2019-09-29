@@ -4,6 +4,7 @@ type: page
 name: eka-sloki
 weight: 120
 archiveitemid: EkaSloki
+rssfilename: EkaSloki.xml
 ---
 
 This sloka, composed by Shankaracharya, explains how atma, the absolute consciousness, alone enlightens everything. It also conveys the essential oneness of the Lord and beings. In these 2 talks, the sloka is explained in detail and guidance is given to students who have completed a course in Vedanta.

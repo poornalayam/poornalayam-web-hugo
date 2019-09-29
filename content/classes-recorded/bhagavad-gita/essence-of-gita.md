@@ -4,6 +4,7 @@ type: page
 name: essence-of-gita
 weight: 200
 archiveitemid: EssenceOfGita
+rssfilename: EssenceOfGita.xml
 ---
 These 50 classes give a comprehensive vision of the Bhagavad Gita. Verse by verse explanation is not given. However, the main ideas discussed in each chapter are explained. These classes will help the listener to understand the essence of the Gita.
 

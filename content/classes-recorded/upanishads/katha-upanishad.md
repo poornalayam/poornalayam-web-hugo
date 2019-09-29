@@ -4,6 +4,7 @@ type: page
 name: katha-upanishad
 weight: 60
 archiveitemid: KathaUpanishad
+rssfilename: KathaUpanishad.xml
 ---
 
 This Upanishad begins with a story and through this story, many values are taught. The nature of the Lord and the individual being, is then, explained from various angles. It, thus, reveals the truth of how the Lord and the being are, in essence, one. Finally, the benefits of understanding the ultimate truth are explained from different angles.

@@ -4,6 +4,7 @@ type: page
 name: sivaratri
 weight: 150
 archiveitemid: Sivaratri
+rssfilename: Sivaratri.xml
 ---
 
 This talk explains the significance of Sivaratri.

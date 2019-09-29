@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-08
 weight: 80
 archiveitemid: BhagavadGitaCh08
+rssfilename: BhagavadGitaCh08.xml
 ---
 
 This chapter is called Aksara-brahma-yoga, because Krishna begins the teaching with Aksara-brahman.

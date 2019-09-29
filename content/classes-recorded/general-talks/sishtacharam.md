@@ -4,6 +4,7 @@ type: page
 name: sishtacharam
 weight: 370
 archiveitemid: Sishtacharam
+rssfilename: Sishtacharam.xml
 ---
 
 Sishtachara means conduct of a wise man, which is a means for knowledge about morality. This talk explains briefly about Sishtacharam.

@@ -4,6 +4,7 @@ type: page
 name: essence-of-kena-upanishad
 weight: 50
 archiveitemid: EssenceOfKenaUpanishad
+rssfilename: EssenceOfKenaUpanishad.xml
 ---
 
 The central theme of Kena Upanishad is given in these 6 talks without explaining each word of the Upanishad mantra.

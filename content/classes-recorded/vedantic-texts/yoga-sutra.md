@@ -4,6 +4,7 @@ type: page
 name: yoga-sutra
 weight: 140
 archiveitemid: YogaSutra
+rssfilename: YogaSutra.xml
 ---
 
 These Sutras were written by Rishi Patanjali. The 35 talks explain the entire Yoga Sutra text.

@@ -4,6 +4,7 @@ type: page
 name: meditation
 weight: 210
 archiveitemid: MeditationTalk
+rssfilename: MeditationTalk.xml
 ---
 
 This talk explains the various types of meditation and guides us on how to practice meditation.

@@ -4,6 +4,7 @@ type: page
 name: maneesha-panchakam
 weight: 40
 archiveitemid: ManeeshaPanchakam
+rssfilename: ManeeshaPanchakam.xml
 ---
 
 Maneesha Panchakam consisting of five slokas was written by Shankaracharya. These 6 talks explain this text in detail.

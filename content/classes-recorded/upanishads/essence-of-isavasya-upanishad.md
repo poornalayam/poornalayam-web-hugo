@@ -4,6 +4,7 @@ type: page
 name: essence-of-isavasya-upanishad
 weight: 130
 archiveitemid: EssenceOfIsavasyaUpanishad
+rssfilename: EssenceOfIsavasyaUpanishad.xml
 ---
 
 This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. The essence of this text is given in this talk.

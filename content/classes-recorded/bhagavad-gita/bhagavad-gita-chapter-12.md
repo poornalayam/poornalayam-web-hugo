@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-12
 weight: 120
 archiveitemid: BhagavadGitaCh12
+rssfilename: BhagavadGitaCh12.xml
 ---
 
 This chapter is called Bhakti-yoga and deals with all the stages of Bhakti.

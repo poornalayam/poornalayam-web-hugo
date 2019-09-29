@@ -4,6 +4,7 @@ type: page
 name: mahavakyam
 weight: 380
 archiveitemid: Mahavakyam
+rssfilename: Mahavakyam.xml
 ---
 
 This talk deals with four mahavakya's which reveals identity between individual and God.

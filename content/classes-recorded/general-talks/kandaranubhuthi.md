@@ -4,6 +4,7 @@ type: page
 name: kandaranubhuthi
 weight: 310
 archiveitemid: Kandaranubhuthi
+rssfilename: Kandaranubhuthi.xml
 ---
 
 The Tamil text or hymns written by the saint Arunagirinathar on Lord Karthikeyan (Murugan).

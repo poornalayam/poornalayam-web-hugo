@@ -4,6 +4,7 @@ type: page
 name: moksham
 weight: 170
 archiveitemid: Moksham
+rssfilename: Moksham.xml
 ---
 
 This talk explains the true nature of liberation.

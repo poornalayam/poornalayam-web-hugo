@@ -4,6 +4,7 @@ type: page
 name: dakshinamurti-stotram
 weight: 30
 archiveitemid: DakshinamurtiStotram
+rssfilename: DakshinamurtiStotram.xml
 ---
 
 This stotram is written by Shankaracharya. Vedantic ideas are beautifully revealed in this stotram. These 9 talks explain this stotram in detail.

@@ -4,6 +4,7 @@ type: page
 name: sadhana-chatushtayam
 weight: 60
 archiveitemid: SadhanaChatushtayam
+rssfilename: SadhanaChatushtayam.xml
 ---
 
 The qualifications that a seeker must possess in order to gain Vedantic knowledge are explained in detail in these 6 talks.

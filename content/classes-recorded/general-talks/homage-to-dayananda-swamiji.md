@@ -4,6 +4,7 @@ type: page
 name: homage-to-dayananda-swamiji
 weight: 320
 archiveitemid: HomageToDayanandaSwamiji
+rssfilename: HomageToDayanandaSwamiji.xml
 ---
 
 This talk is about the life sketch and greatness of Pujya Swami Sri Dayananda Saraswathi.

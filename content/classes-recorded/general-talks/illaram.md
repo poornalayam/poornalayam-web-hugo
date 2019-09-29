@@ -4,6 +4,7 @@ type: page
 name: illaram
 weight: 140
 archiveitemid: Illaram
+rssfilename: Illaram.xml
 ---
 
 This talk guides us towards a purposeful family life. It shows how family life can be made conducive to achieving our spiritual goal.

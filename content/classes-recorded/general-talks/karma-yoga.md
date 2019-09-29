@@ -4,6 +4,7 @@ type: page
 name: karma-yoga
 weight: 10
 archiveitemid: KarmaYoga
+rssfilename: KarmaYoga.xml
 ---
 
 These 5 talks explain in detail the meaning and significance of Karma Yoga.

@@ -4,6 +4,7 @@ type: page
 name: bhakti-yoga
 weight: 20
 archiveitemid: BhaktiYoga
+rssfilename: BhaktiYoga.xml
 ---
 
 These 6 talks explain in detail the meaning and significance of Bhakti Yoga.

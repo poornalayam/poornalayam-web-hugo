@@ -4,6 +4,7 @@ type: page
 name: contemplation
 weight: 240
 archiveitemid: ContemplationClasses
+rssfilename: ContemplationClasses.xml
 ---
 
 After the study of Vedanta, one must practice contemplation meditation (Nidhidhyasanam) to absorb the knowledge. This talk inquires into the nature of this type of meditation.

@@ -4,6 +4,7 @@ type: page
 name: kena-upanishad
 weight: 40
 archiveitemid: KenaUpanishad
+rssfilename: KenaUpanishad.xml
 ---
 
 This Upanishad begins with the highest truth, viz., the underlying oneness of the Lord and the beings. Towards the end of the Upanishad, a few values are conveyed by narrating a story.

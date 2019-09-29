@@ -4,6 +4,7 @@ type: page
 name: brhadaranyaka-upanishad
 weight: 190
 archiveitemid: BrhadaranyakaUpanishad
+rssfilename: BrhadaranyakaUpanishad.xml
 ---
 
 This is a vast Upanishad. All the Upanishadic ideas are dealt with in detail in this Upanishad. Shankaracharya’s commentary for this Upanishad is also an elaborate one.

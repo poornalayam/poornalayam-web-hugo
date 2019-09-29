@@ -4,6 +4,7 @@ type: page
 name: mundaka-with-bashyam
 weight: 30
 archiveitemid: MundakaWithBashyam
+rssfilename: MundakaWithBashyam.xml
 ---
 
 The commentaries written by Shankaracharya are called Bhashyam. Word by word explanation of the Mundaka Upanishad Bhashyam is given in these classes.

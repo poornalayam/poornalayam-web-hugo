@@ -4,6 +4,7 @@ type: page
 name: introduction-to-jnana-yoga
 weight: 220
 archiveitemid: IntroductionToJnanaYoga
+rssfilename: IntroductionToJnanaYoga.xml
 ---
 
 Self-knowledge is the means for attaining the Self. This truth is explained in this talk.

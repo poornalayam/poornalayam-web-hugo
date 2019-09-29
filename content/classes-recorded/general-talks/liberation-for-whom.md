@@ -4,6 +4,7 @@ type: page
 name: liberation-for-whom
 weight: 40
 archiveitemid: LiberationForWhom
+rssfilename: LiberationForWhom.xml
 ---
 
 These 6 talks give the true meaning of the word Liberation and tell us who can really seek and attain liberation.

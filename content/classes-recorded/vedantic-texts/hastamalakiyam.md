@@ -4,6 +4,7 @@ type: page
 name: hastamalakiyam
 weight: 80
 archiveitemid: Hastamalakiyam
+rssfilename: Hastamalakiyam.xml
 ---
 
 This text is written by Hastamalaka, a disciple of Shankaracharya and explains the central theme of the Upanishads, in twelve verses. The 5 talks explain all the 12 verses of this text.

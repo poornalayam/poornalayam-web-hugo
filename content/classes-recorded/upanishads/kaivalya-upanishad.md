@@ -4,6 +4,7 @@ type: page
 name: kaivalya-upanishad
 weight: 80
 archiveitemid: KaivalyaUpanishadClasses
+rssfilename: KaivalyaUpanishadClasses.xml
 ---
 
 This Upanishad points out the essential oneness of the individual and the Lord. Contemplative meditation (Nidhidhyasanam) is emphasized as a means for establishing oneself in the highest truth.

@@ -4,6 +4,7 @@ type: page
 name: aparoksha-anubhuti
 weight: 150
 archiveitemid: AparokshaAnubhuti
+rssfilename: AparokshaAnubhuti.xml
 ---
 
 This is a text written by Shankaracharya. It gives the essence of Vedanta and then elaborates on the topic of contemplative meditation (Nidhidhyasanam). These 35 talks explain this text in detail.

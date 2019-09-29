@@ -4,6 +4,7 @@ type: page
 name: essence-of-maneesha-panchakam
 weight: 50
 archiveitemid: EssenceOfManeeshaPanchakam
+rssfilename: EssenceOfManeeshaPanchakam.xml
 ---
 
 Maneesha Panchakam consisting of five slokas was written by Shankaracharya. The essence of these slokas is given in this talk.

@@ -4,6 +4,7 @@ type: page
 name: self-enquiry
 weight: 190
 archiveitemid: SelfEnquiry
+rssfilename: SelfEnquiry.xml
 ---
 
 This talk inquires into the true nature of oneself.

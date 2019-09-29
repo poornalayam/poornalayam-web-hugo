@@ -4,6 +4,7 @@ type: page
 name: talk-on-values-for-volunteers
 weight: 350
 archiveitemid: ValuesForVolunteers
+rssfilename: ValuesForVolunteers.xml
 ---
 
 Talks Given By Swamiji on values for the volunteers who are doing service.

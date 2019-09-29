@@ -4,6 +4,7 @@ type: page
 name: surrender
 weight: 180
 archiveitemid: SurrenderClasses
+rssfilename: SurrenderClasses.xml
 ---
 
 This talk tells us about the value of surrender as an important qualification for gaining self-knowledge.

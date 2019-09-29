@@ -4,6 +4,7 @@ type: page
 name: entry-into-gita
 weight: 70
 archiveitemid: EntryIntoGita
+rssfilename: EntryIntoGita.xml
 ---
 
 These 3 talks tell us why we must study the Bhagavad Gita. The content of the Gita is given in a nutshell and the benefit of studying the Gita is also explained.

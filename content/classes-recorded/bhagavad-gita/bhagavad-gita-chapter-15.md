@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-15
 weight: 150
 archiveitemid: BhagavadGitaCh15
+rssfilename: BhagavadGitaCh15.xml
 ---
 
 This chapter is called Purusottama-yoga, since the main topic of this chapter is purusottama.

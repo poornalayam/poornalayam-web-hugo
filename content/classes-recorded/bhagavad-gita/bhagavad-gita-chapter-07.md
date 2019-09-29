@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-07
 weight: 70
 archiveitemid: BhagavadGitaCh07
+rssfilename: BhagavadGitaCh07.xml
 ---
 
 This chapter gets the name Jnanavijnana-yoga, since the knowledge of saguna-isvara (jnanam) and that of nirguna-isvara (vijnanam) are highlighted in this chapter.

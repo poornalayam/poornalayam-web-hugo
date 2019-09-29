@@ -4,6 +4,7 @@ type: page
 name: religion-to-philosophy
 weight: 30
 archiveitemid: ReligionToPhilosophy
+rssfilename: ReligionToPhilosophy.xml
 ---
 
 These 5 talks differentiate Religion and Philosophy and give clarity about what they actually mean.

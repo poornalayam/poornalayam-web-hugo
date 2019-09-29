@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-04
 weight: 40
 archiveitemid: BhagavadGitaCh04
+rssfilename: BhagavadGitaCh04.xml
 ---
 
 The renunciation of all activities through the knowledge of the actionless 'I' amidst the activities of the body is the main topic of this chapter known by the name Jnanakarmasannyasa-yoga.

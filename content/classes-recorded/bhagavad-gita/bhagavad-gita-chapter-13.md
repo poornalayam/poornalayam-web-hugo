@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-13
 weight: 130
 archiveitemid: BhagavadGitaCh13
+rssfilename: BhagavadGitaCh13.xml
 ---
 
 This chapter is called Ksetraksetrajnavibhaga-yoga, since the main topic of this chapter is the discrimination between the entire objective universe (ksetram) and the conscious principle that illumines the objective universe (ksetrajna). Another highlight of this chapter is the enumeration of some important values that prepare the mind to gain self-knowledge.

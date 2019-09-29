@@ -4,6 +4,7 @@ type: page
 name: essence-of-kaivalya-upanishad
 weight: 90
 archiveitemid: EssenceOfKaivalyaUpanishad
+rssfilename: EssenceOfKaivalyaUpanishad.xml
 ---
 
 Essence of Kaivalya Upanishad.

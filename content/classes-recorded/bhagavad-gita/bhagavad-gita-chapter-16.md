@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-16
 weight: 160
 archiveitemid: BhagavadGitaCh16
+rssfilename: BhagavadGitaCh16.xml
 ---
 
 This chapter is called Daivasurasampadvibhaga-yoga since it deals with daiva (spiritual) and asura (materialistic) traits that are to be followed and to be avoided respectively, by a seeker.

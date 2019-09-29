@@ -3,6 +3,7 @@ title: Guided Meditation (த்யானம்)
 type: page
 name: guided-meditation
 archiveitemid: GuidedMeditation
+rssfilename: GuidedMeditation.xml
 ---
 
 Each of the 215 classes is of 10 minutes duration. These are live recordings of the Guided meditation conducted for the benefit of students attending regular classes. The Meditations have been developed with the objective of helping the student in progressing stage by stage. They begin with relaxation techniques and culminate in contemplation meditation.

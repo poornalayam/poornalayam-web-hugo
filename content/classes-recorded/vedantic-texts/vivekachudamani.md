@@ -4,6 +4,7 @@ type: page
 name: vivekachudamani
 weight: 130
 archiveitemid: VivekachudamaniClasses
+rssfilename: VivekachudamaniClasses.xml
 ---
 
 This is a text written by Shankaracharya. 108 selected verses from the text are explained in these 42 talks. All the vedantic ideas are explained in this text.

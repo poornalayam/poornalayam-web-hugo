@@ -4,6 +4,7 @@ type: page
 name: jiva-yatra
 weight: 20
 archiveitemid: JivaYatra
+rssfilename: JivaYatra.xml
 ---
 
 This text is written by Swami Gnanananda Bharati of Sringeri Mutt. The sadhanas necessary for a seeker are given step by step, in a simple form. These 6 talks explain this text in detail.

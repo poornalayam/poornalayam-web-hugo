@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-05
 weight: 50
 archiveitemid: BhagavadGitaCh05
+rssfilename: BhagavadGitaCh05.xml
 ---
 
 The main topic being Sannyasa (renunciation), this chapter is called Sannyasa-yoga.

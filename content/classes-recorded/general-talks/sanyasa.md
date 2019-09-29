@@ -4,6 +4,7 @@ type: page
 name: sanyasa
 weight: 260
 archiveitemid: Sanyasa
+rssfilename: Sanyasa.xml
 ---
 
 This talk explains the meaning and significance of Sanyasa.

@@ -4,6 +4,7 @@ type: page
 name: prasna-upanishad
 weight: 170
 archiveitemid: PrasnaUpanishad
+rssfilename: PrasnaUpanishad.xml
 ---
 
 Six students put up questions to the teacher and the teacher answers them all. These questions and answers form this Upanishad.

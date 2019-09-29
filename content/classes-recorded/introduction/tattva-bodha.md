@@ -4,6 +4,7 @@ type: page
 name: tattva-bodha
 weight: 20
 archiveitemid: TattvaBodha
+rssfilename: TattvaBodha.xml
 ---
 
 This is a small text written by Shankaracharya. This text introduces the seeker to the technical terms used in Vedanta and gives a total vision of Vedanta. Traditionally, this text is studied prior to beginning a systematic study of Vedanta.

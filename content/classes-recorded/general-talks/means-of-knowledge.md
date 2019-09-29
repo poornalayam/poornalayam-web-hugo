@@ -4,6 +4,7 @@ type: page
 name: means-of-knowledge
 weight: 270
 archiveitemid: MeansOfKnowledge
+rssfilename: MeansOfKnowledge.xml
 ---
 
 Knowledge can be gained only through an instrument of knowledge. This talk explains the various means for attaining knowledge.

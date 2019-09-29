@@ -4,6 +4,7 @@ type: page
 name: isavasya-upanishad
 weight: 120
 archiveitemid: IsavasyaUpanishadClasses
+rssfilename: IsavasyaUpanishadClasses.xml
 ---
 
 This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. A form of meditation and prayer occur at the end of this Upanishad.

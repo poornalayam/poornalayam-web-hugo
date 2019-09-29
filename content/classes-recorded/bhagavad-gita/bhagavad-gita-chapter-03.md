@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-03
 weight: 30
 archiveitemid: BhagavadGitaCh03
+rssfilename: BhagavadGitaCh03.xml
 ---
 
 Karma-yoga being the main topic, this chapter is called Karma-yoga.

@@ -4,6 +4,7 @@ type: page
 name: thayumanavar-prayer
 weight: 280
 archiveitemid: ThayumanavarPrayer
+rssfilename: ThayumanavarPrayer.xml
 ---
 
 Thayumanavar has composed a number of Tamil verses praising the Lord and describing the nature of the Lord. This talk explains one such prayer.

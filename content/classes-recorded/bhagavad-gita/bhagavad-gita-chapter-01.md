@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-01
 weight: 10
 archiveitemid: BhagavadGitaCh01
+rssfilename: BhagavadGitaCh01.xml
 ---
 
 This chapter is called Arjunavisada Yoga, since it deals primarily with Arjuna’s grief.

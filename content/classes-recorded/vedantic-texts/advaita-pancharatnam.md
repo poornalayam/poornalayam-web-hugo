@@ -4,6 +4,7 @@ type: page
 name: advaita-pancharatnam
 weight: 200
 archiveitemid: AdvaitaPancharatnam
+rssfilename: AdvaitaPancharatnam.xml
 ---
 
 This text was given by Adi Sankaracharya on Advaita.

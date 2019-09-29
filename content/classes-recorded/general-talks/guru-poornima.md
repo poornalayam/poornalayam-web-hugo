@@ -4,6 +4,7 @@ type: page
 name: guru-poornima
 weight: 160
 archiveitemid: GuruPoornimaClasses
+rssfilename: GuruPoornimaClasses.xml
 ---
 
 Rishi Veda Vyasa was born on this auspicious day. Guru Poornima is celebrated as a mark of respect to Vyasacharya and to the entire guru parampara. The significance of Guru Poornima is explained in this talk.

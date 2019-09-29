@@ -4,6 +4,7 @@ type: page
 name: essence-of-mandukya-upanishad
 weight: 150
 archiveitemid: EssenceOfMandukyaUpanishad
+rssfilename: EssenceOfMandukyaUpanishad.xml
 ---
 
 The essence of Mandukya Upanishad is given in these talks. Each word of the mantra is not explained. Only the essential ideas are explained.

@@ -4,6 +4,7 @@ type: page
 name: chandogya-upanishad
 weight: 180
 archiveitemid: ChandogyaUpanishad
+rssfilename: ChandogyaUpanishad.xml
 ---
 
 This is a vast Upanishad consisting of 8 chapters. Various forms of Meditation and Values are discussed in the first five chapters. The last three chapters form the philosophical portion of this Upanishad and explain the nature of the Lord and Beings from various angles.

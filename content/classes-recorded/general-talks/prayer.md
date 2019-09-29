@@ -4,6 +4,7 @@ type: page
 name: prayer
 weight: 110
 archiveitemid: PrayerClasses
+rssfilename: PrayerClasses.xml
 ---
 
 These two talks give the meaning of Prayer, the various stages in Prayer, the benefits of prayer and finally explain a few Upanishadic prayers.

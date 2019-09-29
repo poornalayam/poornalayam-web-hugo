@@ -4,6 +4,7 @@ type: page
 name: essence-of-taittiriya-upanishad
 weight: 110
 archiveitemid: EssenceOfTaittiriyaUpanishad
+rssfilename: EssenceOfTaittiriyaUpanishad.xml
 ---
 
 The essence of Taittiriya Upanishad is given in these talks. Each word of the mantra is not explained. Only the essential ideas are explained.

@@ -3,6 +3,7 @@ title: Brahma Sutram (ப்ரம்ம சூத்ரம்)
 type: page
 name: brahma-sutram
 archiveitemid: BrahmaSutram
+rssfilename: BrahmaSutram.xml
 ---
 
 Vyasacharya wrote the Brahma Sutras to clarify various possible doubts that could arise while studying the Upanishad mantras.

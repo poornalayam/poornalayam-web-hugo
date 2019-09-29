@@ -4,6 +4,7 @@ type: page
 name: epistemology
 weight: 360
 archiveitemid: Epistemology
+rssfilename: Epistemology.xml
 ---
 
 Epistemology is a subject deals with all aspects of knowledge. This subject is called science of knowledge and comes as a part of philosophy.

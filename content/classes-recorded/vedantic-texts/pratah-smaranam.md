@@ -4,6 +4,7 @@ type: page
 name: pratah-smaranam
 weight: 90
 archiveitemid: PratahSmaranam
+rssfilename: PratahSmaranam.xml
 ---
 
 This text is attributed to Shankaracharya. It explains the Central theme of Upanishads. These 4 talks explain this text in detail.

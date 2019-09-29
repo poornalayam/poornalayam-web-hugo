@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-11
 weight: 110
 archiveitemid: BhagavadGitaCh11
+rssfilename: BhagavadGitaCh11.xml
 ---
 
 This chapter deals with the universal form of the Lord, and therefore, called Visvarupadarsana-yoga.

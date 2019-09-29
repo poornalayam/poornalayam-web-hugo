@@ -4,6 +4,7 @@ type: page
 name: aitareya-upanishad
 weight: 200
 archiveitemid: AitareyaUpanishad
+rssfilename: AitareyaUpanishad.xml
 ---
 
 In this Upanishad, in addition to imparting the fundamental oneness of the Lord and the Beings, the value of dispassion is also highlighted.

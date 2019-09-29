@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-06
 weight: 60
 archiveitemid: BhagavadGitaCh06
+rssfilename: BhagavadGitaCh06.xml
 ---
 
 Meditation being the main topic, this chapter is called Dhyana-yoga.

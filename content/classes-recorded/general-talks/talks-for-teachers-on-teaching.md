@@ -4,6 +4,7 @@ type: page
 name: talks-for-teachers-on-teaching
 weight: 340
 archiveitemid: TalksForTeachers
+rssfilename: TalksForTeachers.xml
 ---
 
 Series of Swamiji's talks on given to teachers on teaching.

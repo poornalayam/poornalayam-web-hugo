@@ -4,6 +4,7 @@ type: page
 name: kasi-panchakam
 weight: 190
 archiveitemid: KasiPanchakam
+rssfilename: KasiPanchakam.xml
 ---
 
 Kasi Panchakam is a text consisting of 5 slokas supposed to be written by Sankaracharya.

@@ -4,6 +4,7 @@ type: page
 name: taittiriya-upanishad
 weight: 100
 archiveitemid: TaittiriyaUpanishad
+rssfilename: TaittiriyaUpanishad.xml
 ---
 
 This Upanishad contains 3 chapters. The first chapter deals with various forms of Meditation and some values. The second chapter reveals the true nature of God, World and the individual and their underlying oneness. The value of dispassion is stressed here. The third chapter consists of meditation, some values and finally the conclusion.

@@ -4,6 +4,7 @@ type: page
 name: mundaka-upanishad
 weight: 10
 archiveitemid: MundakaUpanishad
+rssfilename: MundakaUpanishad.xml
 ---
 
 The Mundaka Upanishad gives us the teachings of Vedanta, in a systematic manner. One may begin the study of the Upanishads from this Upanishad onwards.

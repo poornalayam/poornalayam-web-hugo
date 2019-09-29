@@ -4,6 +4,7 @@ type: page
 name: guru-stotram
 weight: 60
 archiveitemid: GuruStotramClasses
+rssfilename: GuruStotramClasses.xml
 ---
 
 Guru Stotram has 14 verses selected from the Guru Gita, which forms part of Skanda Puranam. These verses praise the greatness of the guru who imparts knowledge of Vedanta. The essence of these verses is given in this talk.

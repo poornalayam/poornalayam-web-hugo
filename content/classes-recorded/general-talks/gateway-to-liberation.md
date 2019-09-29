@@ -4,6 +4,7 @@ type: page
 name: gateway-to-liberation
 weight: 200
 archiveitemid: GatewayToLiberation
+rssfilename: GatewayToLiberation.xml
 ---
 
 The 2 talks provide guidance to students commencing Vedantic study.

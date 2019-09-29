@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-18
 weight: 180
 archiveitemid: BhagavadGitaCh18
+rssfilename: BhagavadGitaCh18.xml
 ---
 
 This is the last chapter of the Bhagavad Gita and is called Mokshasannyasa-yoga, as it begins with Sannyasa, which is the means of liberation.  This chapter also contains the concluding remarks of Lord Krishna.

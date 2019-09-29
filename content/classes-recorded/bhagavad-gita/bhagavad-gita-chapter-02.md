@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-02
 weight: 20
 archiveitemid: BhagavadGitaCh02
+rssfilename: BhagavadGitaCh02.xml
 ---
 
 This chapter is called Sankhya-yoga. The four main topics of this chapter are Arjunasaranagati, Sankhya-yoga, Karma-yoga and Sthitaprajna Lakshana.

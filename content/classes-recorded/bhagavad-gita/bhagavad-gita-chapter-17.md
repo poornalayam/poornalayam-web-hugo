@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-17
 weight: 170
 archiveitemid: BhagavadGitaCh17
+rssfilename: BhagavadGitaCh17.xml
 ---
 
 The value of Sraddha is highlighted both at the beginning and at the end of this chapter. Therefore, it is called Sraddhatrayavibhaga-yoga.

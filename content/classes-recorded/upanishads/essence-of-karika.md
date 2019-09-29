@@ -4,6 +4,7 @@ type: page
 name: essence-of-karika
 weight: 160
 archiveitemid: EssenceOfKarika
+rssfilename: EssenceOfKarika.xml
 ---
 
 These talks give the summary of Gaudapadacharya’s Karika.

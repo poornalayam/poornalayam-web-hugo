@@ -4,6 +4,7 @@ type: page
 name: spirituality
 weight: 130
 archiveitemid: SpiritualityClasses
+rssfilename: SpiritualityClasses.xml
 ---
 
 The meaning of spirituality is explained in this talk.

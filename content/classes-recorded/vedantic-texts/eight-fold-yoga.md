@@ -4,6 +4,7 @@ type: page
 name: eight-fold-yoga
 weight: 100
 archiveitemid: EightFoldYoga
+rssfilename: EightFoldYoga.xml
 ---
 
 The yoga sutras were written by Rishi Patanjali. These 6 talks give the essence of the Sutras.

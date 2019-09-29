@@ -4,6 +4,7 @@ type: page
 name: nava-yogi-samvadham
 weight: 220
 archiveitemid: NavaYogiSamvadham
+rssfilename: NavaYogiSamvadham.xml
 ---
 
 This text is based on the conversation between the king Nimi and the Nine Sages. This text comes under Bagavathapuranam.

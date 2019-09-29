@@ -4,6 +4,7 @@ type: page
 name: essence-of-mundaka-upanishad
 weight: 20
 archiveitemid: EssenceOfMundakaUpanishad
+rssfilename: EssenceOfMundakaUpanishad.xml
 ---
 
 The essence of Mundaka Upanishad is given in these 18 talks. Each word of the mantra is not explained. Only the essential ideas are explained.

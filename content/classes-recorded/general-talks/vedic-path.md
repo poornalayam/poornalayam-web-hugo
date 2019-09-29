@@ -4,6 +4,7 @@ type: page
 name: vedic-path
 weight: 50
 archiveitemid: VedicPath
+rssfilename: VedicPath.xml
 ---
 
 These 3 talks explain the path shown by the Vedas for reaching the ultimate human goal.

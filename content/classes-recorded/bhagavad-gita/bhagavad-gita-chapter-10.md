@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-10
 weight: 100
 archiveitemid: BhagavadGitaCh10
+rssfilename: BhagavadGitaCh10.xml
 ---
 
 The main theme of this chapter being the Lord’s glories, this chapter is called Vibhuti-yoga.

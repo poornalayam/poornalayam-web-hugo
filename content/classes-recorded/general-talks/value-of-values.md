@@ -4,6 +4,7 @@ type: page
 name: value-of-values
 weight: 120
 archiveitemid: ValueOfValues
+rssfilename: ValueOfValues.xml
 ---
 
 These 3 talks elaborate the values that one must have and the significance of living a life of values.

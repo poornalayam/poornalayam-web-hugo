@@ -4,6 +4,7 @@ type: page
 name: vedanta-sara
 weight: 160
 archiveitemid: VedantaSaraClasses
+rssfilename: VedantaSaraClasses.xml
 ---
 
 This Vedanta Sara text written by Swami Sadananda, who lived 500 years before, this text gives total vision of Vedanta from the beginning to the end. This text is more elaborate than Tattva Bodha and covers almost all important ideas of Vedanta.

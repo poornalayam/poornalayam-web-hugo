@@ -4,6 +4,7 @@ type: page
 name: yati-panchakam
 weight: 210
 archiveitemid: YatiPanchakam
+rssfilename: YatiPanchakam.xml
 ---
 
 This text describes the greatness of a liberated person. These 3 classes explain in detail, the Yati Panchakam.

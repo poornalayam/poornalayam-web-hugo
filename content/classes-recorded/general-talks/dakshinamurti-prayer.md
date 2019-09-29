@@ -4,6 +4,7 @@ type: page
 name: dakshinamurti-prayer
 weight: 290
 archiveitemid: DakshinamurtiPrayer
+rssfilename: DakshinamurtiPrayer.xml
 ---
 
 This talk explains in detail the Vedantic significance of a verse sung in praise of Lord Dakshinamurthy.

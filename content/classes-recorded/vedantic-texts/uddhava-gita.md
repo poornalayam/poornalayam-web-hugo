@@ -4,6 +4,7 @@ type: page
 name: uddhava-gita
 weight: 180
 archiveitemid: UddhavaGita
+rssfilename: UddhavaGita.xml
 ---
 
 This is a teaching given by Lord Krishna to his disciple Uddhava. This forms a part of Srimad Bhagavata Purana. In the Uddhava Gita, Lord Krishna imparts self-knowledge and the sadhanas needed for attaining this knowledge. In these ongoing talks, the Uddhava Gita is being explained in detail.

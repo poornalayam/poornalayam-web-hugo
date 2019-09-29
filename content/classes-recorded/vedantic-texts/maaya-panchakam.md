@@ -4,6 +4,7 @@ type: page
 name: maaya-panchakam
 weight: 230
 archiveitemid: MaayaPanchakam
+rssfilename: MaayaPanchakam.xml
 ---
 
 The Maaya Panchakam Vedantic Text explains Maaya in 5 slokas.

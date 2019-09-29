@@ -4,6 +4,7 @@ type: page
 name: mandukya-upanishad
 weight: 140
 archiveitemid: MandukyaUpanishad
+rssfilename: MandukyaUpanishad.xml
 ---
 
 This is a small Upanishad. With the help of the syllable Om, this Upanishad explains the nature of the individual being and God and their underlying oneness. Gaudapadacharya, the guru of Shankaracharya’s guru Govinda Bhagavadpada, has written a commentary, explaining the 12 mantras, in 225 verses. His explanatory verses are called Karika.

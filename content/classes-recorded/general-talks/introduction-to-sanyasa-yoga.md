@@ -4,6 +4,7 @@ type: page
 name: introduction-to-sanyasa-yoga
 weight: 80
 archiveitemid: IntroductionToSanyasaYoga
+rssfilename: IntroductionToSanyasaYoga.xml
 ---
 
 This is an introduction speech given by Swamiji based on Chapter 5 of Bhagavad Gita. In this speech, Swamiji has clearly stated about the types and nature of Sanyasa.

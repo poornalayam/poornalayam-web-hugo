@@ -4,6 +4,7 @@ type: page
 name: thavam
 weight: 330
 archiveitemid: Thavam
+rssfilename: Thavam.xml
 ---
 
 Swamiji's talk on austerity during Maha Shivarathri.

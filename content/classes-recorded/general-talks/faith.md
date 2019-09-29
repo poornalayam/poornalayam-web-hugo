@@ -4,6 +4,7 @@ type: page
 name: faith
 weight: 250
 archiveitemid: FaithClasses
+rssfilename: FaithClasses.xml
 ---
 
 One must have faith (shradhdha) in order to gain self-knowledge. This talk explains in detail this essential quality.

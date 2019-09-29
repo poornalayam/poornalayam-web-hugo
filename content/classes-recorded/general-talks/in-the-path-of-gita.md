@@ -4,6 +4,7 @@ type: page
 name: in-the-path-of-gita
 weight: 90
 archiveitemid: InThePathOfGita
+rssfilename: InThePathOfGita.xml
 ---
 
 This talk conveys to us the goal reached by us when we follow the path shown by Lord Krishna in the Bhagavad Gita.

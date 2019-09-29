@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-09
 weight: 90
 archiveitemid: BhagavadGitaCh09
+rssfilename: BhagavadGitaCh09.xml
 ---
 
 This chapter is called Rajavidyarajaguhya-yoga, since it deals with the knowledge of God which is the greatest (rajavidya) and the rarest (rajaguhya).

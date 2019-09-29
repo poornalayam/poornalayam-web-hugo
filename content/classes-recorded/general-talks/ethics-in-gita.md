@@ -4,6 +4,7 @@ type: page
 name: ethics-in-gita
 weight: 100
 archiveitemid: EthicsInGita
+rssfilename: EthicsInGita.xml
 ---
 
 The basic qualification for a seeker is living an ethical life. This talk takes up for discussion some important values mentioned in the Bhagavad Gita.

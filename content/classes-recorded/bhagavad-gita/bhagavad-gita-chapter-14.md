@@ -4,6 +4,7 @@ type: page
 name: bhagavad-gita-chapter-14
 weight: 140
 archiveitemid: BhagavadGitaCh14
+rssfilename: BhagavadGitaCh14.xml
 ---
 
 The main topic of this chapter is the discrimination of the three gunas and the Self (purusa) and it is aptly called Gunatrayavibhaga-yoga.

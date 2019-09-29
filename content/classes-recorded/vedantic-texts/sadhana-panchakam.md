@@ -4,6 +4,7 @@ type: page
 name: sadhana-panchakam
 weight: 10
 archiveitemid: SadhanaPanchakam
+rssfilename: SadhanaPanchakam.xml
 ---
 
 This text is attributed to Shankaracharya. All the sadhanas to be practiced by a spiritual seeker, from beginning to end, are mentioned step by step in this text.

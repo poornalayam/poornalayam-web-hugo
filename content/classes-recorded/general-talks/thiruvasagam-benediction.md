@@ -4,6 +4,7 @@ type: page
 name: thiruvasagam-benediction
 weight: 300
 archiveitemid: ThiruvasagamBenediction
+rssfilename: ThiruvasagamBenediction.xml
 ---
 
 Listen via {{< ytpl "PLFhE-jwdLAYGIAo2m2ew0NZpO_rIjGA6z" >}} {{< itunes "thiruvasagam-benediction/id879271789" >}}
