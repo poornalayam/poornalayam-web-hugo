@@ -13,7 +13,6 @@ Listen via {{< ytpl "PLFhE-jwdLAYE38PwXLI8x5MFq7XpoOqDW" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
-CLASS NAME | {{< archive "CLASS NAME" >}} | {{< yt "CLASS NAME" >}}
 Class 01 | {{< archive "01_Essence_of_Katha_Upanishad.mp3" >}} | {{< yt "H5SLGzW4HA4" >}}
 Class 02 | {{< archive "02_Essence_of_Katha_Upanishad.mp3" >}} | {{< yt "4e9JdmX9C3o" >}}
 Class 03 | {{< archive "03_Essence_of_Katha_Upanishad.mp3" >}} | {{< yt "2axmpEICl9o" >}}

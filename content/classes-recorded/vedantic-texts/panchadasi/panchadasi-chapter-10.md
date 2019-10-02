@@ -4,7 +4,7 @@ type: page
 name: panchadasi-chapter-10
 weight: 100
 archiveitemid: PanchadasiChapter10
-rssfilename: PanchadasiChapter10
+rssfilename: PanchadasiChapter10.xml
 ---
 
 Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.

@@ -4,7 +4,7 @@ type: page
 name: ontology
 weight: 390
 archiveitemid: OntologyClasses
-rssfilename: OntologyClasses
+rssfilename: OntologyClasses.xml
 ---
 
 Ontology is a study about Existence. In this topic three kinds of existence are explained.
