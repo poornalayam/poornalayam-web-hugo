@@ -18,15 +18,15 @@ Listen via {{< ytpl "PLFhE-jwdLAYEV885gpOVufW2xmxlmKxid" >}} {{< itunes "bhagava
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
-Class 01 | {{< archive "BG_01_Gita_Chapter_XI.mp3" >}} | {{< yt "KFbKezK82Vs" >}}
-Class 02 | {{< archive "BG_02_Gita_Chapter_XI.mp3" >}} | {{< yt "m8SrISNpNUo" >}}
-Class 03 | {{< archive "BG_03_Gita_Chapter_XI.mp3" >}} | {{< yt "6pTOTNAS604" >}}
-Class 04 | {{< archive "BG_04_Gita_Chapter_XI.mp3" >}} | {{< yt "yjiT8D5XFVY" >}}
-Class 05 | {{< archive "BG_05_Gita_Chapter_XI.mp3" >}} | {{< yt "PV06TmfRx9g" >}}
-Class 06 | {{< archive "BG_06_Gita_Chapter_XI.mp3" >}} | {{< yt "Q72F7ELPoV4" >}}
-Class 07 | {{< archive "BG_07_Gita_Chapter_XI.mp3" >}} | {{< yt "xlqfFrd4RpQ" >}}
-Class 08 | {{< archive "BG_08_Gita_Chapter_XI.mp3" >}} | {{< yt "9-f31-ngbM0" >}}
-Class 09 | {{< archive "BG_09_Gita_Chapter_XI.mp3" >}} | {{< yt "woBrkWcS6gY" >}}
-Class 10 | {{< archive "BG_10_Gita_Chapter_XI.mp3" >}} | {{< yt "Sy460C6LgCk" >}}
-Class 11 | {{< archive "BG_11_Gita_Chapter_XI.mp3" >}} | {{< yt "FLF_5xhEzSc" >}}
-Class 12 | {{< archive "BG_12_Gita_Chapter_XI.mp3" >}} | {{< yt "Q87VTrt_Z8c" >}}
+Class 01 | {{< archive "BG_01_Gita_chapter_XI.mp3" >}} | {{< yt "KFbKezK82Vs" >}}
+Class 02 | {{< archive "BG_02_Gita_chapter_XI.mp3" >}} | {{< yt "m8SrISNpNUo" >}}
+Class 03 | {{< archive "BG_03_Gita_chapter_XI.mp3" >}} | {{< yt "6pTOTNAS604" >}}
+Class 04 | {{< archive "BG_04_Gita_chapter_XI.mp3" >}} | {{< yt "yjiT8D5XFVY" >}}
+Class 05 | {{< archive "BG_05_Gita_chapter_XI.mp3" >}} | {{< yt "PV06TmfRx9g" >}}
+Class 06 | {{< archive "BG_06_Gita_chapter_XI.mp3" >}} | {{< yt "Q72F7ELPoV4" >}}
+Class 07 | {{< archive "BG_07_Gita_chapter_XI.mp3" >}} | {{< yt "xlqfFrd4RpQ" >}}
+Class 08 | {{< archive "BG_08_Gita_chapter_XI.mp3" >}} | {{< yt "9-f31-ngbM0" >}}
+Class 09 | {{< archive "BG_09_Gita_chapter_XI.mp3" >}} | {{< yt "woBrkWcS6gY" >}}
+Class 10 | {{< archive "BG_10_Gita_chapter_XI.mp3" >}} | {{< yt "Sy460C6LgCk" >}}
+Class 11 | {{< archive "BG_11_Gita_chapter_XI.mp3" >}} | {{< yt "FLF_5xhEzSc" >}}
+Class 12 | {{< archive "BG_12_Gita_chapter_XI.mp3" >}} | {{< yt "Q87VTrt_Z8c" >}}
