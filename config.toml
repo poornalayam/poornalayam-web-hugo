@@ -3,7 +3,7 @@ title = "Poornalayam (பூர்ணாலயம்)"
 description = "Vedanta Talks in Tamil"
 theme = "mainroad-custom"
 disableKinds = ["home", "sections", "taxonomy", "taxonomyTerm", "RSS"]
-googleAnalytics = ""
+googleAnalytics = "UA-632810-7"
 enableRobotsTXT = true
 assetDir = "static"
 
