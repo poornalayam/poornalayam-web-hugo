@@ -23,10 +23,10 @@ Introduction | 40
 Bhagavad Gita | 322
 Bhagavad Gita – Gist and Essence | 141
 Upanishads | 678
-Vedantic Texts | 877
+Vedantic Texts | 868
 Brahma Sutram | 33
 General Talks | 79
-TOTAL AUDIO CLASSES | 2,170
+TOTAL AUDIO CLASSES | 2,161
 
 
 <h2>Video Classes in YouTube</h2>
