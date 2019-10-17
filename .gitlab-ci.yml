@@ -22,8 +22,8 @@ test:
 
 pages:
   before_script:
-# Latest docker images don't contain git, install it
-  - apk add --update --no-cache git
+# Latest hugo docker images don't contain git or curl
+  - apk add --update --no-cache git curl
 
   script:
 # Configure git user
