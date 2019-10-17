@@ -38,8 +38,12 @@ pages:
   - git --git-dir public/.git commit -m "rebuilding site `date`"
 # Push public/ to to GitHub Pages repo
   - git --git-dir public/.git push https://$GHUSER:$GH_TOKEN@github.com/${GHUSER}/${GHREPO}
-# Purge CloudFlare cache
-  - curl -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json' --data '{"purge_everything":true}'
+# Purge CloudFlare cache, ">-" syntax is needed to bypass processing of special symbols in the curl header
+  - >-
+      curl
+      -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache"
+      -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json'
+      --data '{"purge_everything": true}'
 
   artifacts:
     paths:
