@@ -9,6 +9,11 @@ variables:
   GHUSER: "poornalayam"
   GHREPO: "poornalayam.github.io.git"
 
+# GitLab private variables
+# $GH_TOKEN
+# $CF_ZONE_ID
+# $CF_AUTH_TOKEN
+
 test:
   script:
   - hugo
@@ -17,19 +22,28 @@ test:
 
 pages:
   before_script:
+# Latest docker images don't contain git, install it
   - apk add --update --no-cache git
 
   script:
+# Configure git user
   - git --git-dir public/.git config user.email "$GITEMAIL"
   - git --git-dir public/.git config user.name  "$GITNAME"
   - git --git-dir public/.git checkout master
+# Ensure key folders before building
   - rm -rf public/* /tmp/hugo_cache
+# Build website in public/ and commit to GitLab
   - hugo --minify
   - git --git-dir public/.git add .
   - git --git-dir public/.git commit -m "rebuilding site `date`"
+# Push public/ to to GitHub Pages repo
   - git --git-dir public/.git push https://$GHUSER:$GH_TOKEN@github.com/${GHUSER}/${GHREPO}
+# Purge CloudFlare cache
+  - curl -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json' --data '{"purge_everything":true}'
+
   artifacts:
     paths:
     - public
+
   only:
   - master
