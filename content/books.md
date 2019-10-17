@@ -62,7 +62,7 @@ The following subjects taken by Swamiji are available in text form for download:
       <li><a href="https://archive.org/download/VedanticTexts/VivekaChudamani.pdf">VivekaChudamani</a></li>
       <li><a href="https://archive.org/download/VedanticTexts/Kasi_Panchakam.pdf">Kasi Panchakam</a></li>
       <li><a href="https://archive.org/download/VedanticTexts/Sadhana_Panchakam.pdf">Sadhana Panchakam</a></li>
-      <li><a href="https://archive.org/download/VedanticTexts/Jayanteya-Gita-UG-02-05.pdf">Jayanteya Gita (Nava Yogi Samvadham) UG 02-05</a></li>
+      <li><a href="https://archive.org/download/VedanticTexts/Nava_Yogi_Samvadham.pdf">Jayanteya Gita (Nava Yogi Samvadham) UG 02-05</a></li>
       <li><a href="https://archive.org/download/VedanticTexts/Maaya_Panchakam.pdf">Maaya Panchakam</a></li>
    </ul>
    <p>Internet archive <a href="https://archive.org/details/VedanticTexts/">Vedantic Texts</a> download page.</p>
