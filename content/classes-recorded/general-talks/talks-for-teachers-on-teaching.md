@@ -9,7 +9,7 @@ rssfilename: TalksForTeachers.xml
 
 Series of Swamiji's talks on given to teachers on teaching.
 
-Listen via {{< ytpl"PLFhE-jwdLAYEvyCjwDL9e0pDJLqbZBhfC" >}}
+Listen via {{< ytpl"PLFhE-jwdLAYEvyCjwDL9e0pDJLqbZBhfC" >}} {{< itunes "talks-for-teachers-on-teaching/id1488431254" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -9,7 +9,7 @@ rssfilename: Mahavakyam.xml
 
 This talk deals with four mahavakya's which reveals identity between individual and God.
 
-Listen via {{< ytpl "https://www.youtube.com/playlist?list=PLFhE-jwdLAYE03ey--ErZFYYMdCacP26Z" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYE03ey--ErZFYYMdCacP26Z" >}} {{< itunes "mahavakyam/id1488431092" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

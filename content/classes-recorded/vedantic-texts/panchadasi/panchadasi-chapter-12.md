@@ -11,7 +11,7 @@ Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniquenes
 
 Accompanying text for [Panchadasi Chapter 12](https://archive.org/download/Panchadasi/Panchadasi_Chapter_11-15.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGZni45N27LyPiJPmZ10_hM" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYGZni45N27LyPiJPmZ10_hM" >}} {{< itunes "panchadasi-chapter-12/id1488431228" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

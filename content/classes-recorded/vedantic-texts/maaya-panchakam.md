@@ -11,7 +11,7 @@ The Maaya Panchakam Vedantic Text explains Maaya in 5 slokas.
 
 Accompanying text for [Maaya Panchakam](https://archive.org/download/VedanticTexts/Maaya_Panchakam.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGY7son3rBMhaw7K43870wu" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYGY7son3rBMhaw7K43870wu" >}} {{< itunes "maayapanchakam/id1488430855" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

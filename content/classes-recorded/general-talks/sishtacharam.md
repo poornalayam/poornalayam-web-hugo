@@ -9,7 +9,7 @@ rssfilename: Sishtacharam.xml
 
 Sishtachara means conduct of a wise man, which is a means for knowledge about morality. This talk explains briefly about Sishtacharam.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGtfJ54zOY7S5Qm_7VPQ6JI" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYGtfJ54zOY7S5Qm_7VPQ6JI" >}} {{< itunes "sishtacharam/id1488431010" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

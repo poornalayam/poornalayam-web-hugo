@@ -11,7 +11,7 @@ This text was given by Adi Sankaracharya on Advaita.
 
 Visit the Advaita Pancharatnam page on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHgGpWSyARLusI2EM42oCRy" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYHgGpWSyARLusI2EM42oCRy" >}} {{< itunes "advaita-pancharatnam/id1488430803" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

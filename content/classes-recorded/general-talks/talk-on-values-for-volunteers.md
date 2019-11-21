@@ -9,7 +9,7 @@ rssfilename: ValuesForVolunteers.xml
 
 Talks Given By Swamiji on values for the volunteers who are doing service.
 
-Listen via {{< ytpl "PLFhE-jwdLAYG9r4AmjYzZhDsY-VsnxhPc" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYG9r4AmjYzZhDsY-VsnxhPc" >}} {{< itunes "talk-on-values-for-volunteers/id1488431438" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
