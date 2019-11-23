@@ -8,8 +8,6 @@ Pujya Swami Guruparananda started teaching Vedanta in Tamil from 1992. In July 2
 
 From 1995 onwards till July 2019, Swamiji’s classes are recorded. These are available in the Poornalayam website, iTunes and [YouTube](https://www.youtube.com/user/swamiguruparananda) as tabulated below.
 
-Swamiji's talks are also available on Apple Podcasts via iTunes and Google Podcasts.
-
 * * * * * * * * * * * *
 
 <h1 clas="post__title">உரைகள்</h1>
