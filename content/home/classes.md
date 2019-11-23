@@ -6,16 +6,18 @@ name: classes
 
 Pujya Swami Guruparananda started teaching Vedanta in Tamil from 1992. In July 2019, Swamiji completed and concluded his classes.
 
-From 1995 onwards till July 2019, Swamiji’s classes are recorded. These are available in the Poornalayam website and in You Tube as tabulated below.
+From 1995 onwards till July 2019, Swamiji’s classes are recorded. These are available in the Poornalayam website, iTunes and [YouTube](https://www.youtube.com/user/swamiguruparananda) as tabulated below.
+
+Swamiji's talks are also available on Apple Podcasts via iTunes and Google Podcasts.
 
 * * * * * * * * * * * *
 
 <h1 clas="post__title">உரைகள்</h1>
 பூஜ்ய ஸ்வாமி குருபரானந்தர் 1992 ல் இருந்து த்மிழில் வேதாந்த வகுப்புக்களை துவங்கினார். ஜூலை 2019 ல் ஸ்வாமிஜீ வகுப்புக்களை நிறைவு செய்து விட்டார்.
 
-ஸ்வாமிஜீயின் உரைகள் 1995 ல் இருந்து ஜூலை 2019 வரை பதிவாக்கபட்டுள்ளன. இவைகள் கீழ்கண்ட விதம் பூர்ணாலயம் வலைதளத்திலும் YouTube லும் உள்ளன.
+ஸ்வாமிஜீயின் உரைகள் 1995 ல் இருந்து ஜூலை 2019 வரை பதிவாக்கபட்டுள்ளன. இவைகள் கீழ்கண்ட விதம் பூர்ணாலயம் வலைதளத்திலும், iTunesலும், [YouTube](https://www.youtube.com/user/swamiguruparananda)லும் உள்ளன.
 
-<h2>Audio Classes in Poornalayam website and YouTube</h2>
+<h2>Audio Classes in Poornalayam website, iTunes and YouTube</h2>
 
 Category | Number of Classes
 :---|---:
