@@ -1,5 +1,5 @@
 ---
-title: Essence Of Taittiriya Upanishad (தைத்திரீய உபநிஷத் – சாரம்)
+title: Essence of Taittiriya Upanishad (தைத்திரீய உபநிஷத் – சாரம்)
 type: page
 name: essence-of-taittiriya-upanishad
 weight: 110
