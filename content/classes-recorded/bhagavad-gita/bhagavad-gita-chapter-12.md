@@ -13,7 +13,7 @@ The summary of [Bhagavad Gita – Chapter 12](https://archive.org/download/Bhaga
 
 Visit the [Bhagavad Gita – Chapter 12](https://archive.org/details/BhagavadGitaCh12) page on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEV885gpOVufW2xmxlmKxid" >}} {{< itunes "bhagavad-gita-chapter-11/id879248823" >}}
+Listen via {{< ytpl "PLFhE-jwdLAYFNKp665fsR9lS6GNVuRNd0" >}} {{< itunes "bhagavad-gita-chapter-11/id879248823" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
