@@ -7,9 +7,7 @@ archiveitemid: ChandogyaUpanishad
 rssfilename: ChandogyaUpanishad.xml
 ---
 
-This is a vast Upanishad consisting of 8 chapters. Various forms of Meditation and Values are discussed in the first five chapters. The last three chapters form the philosophical portion of this Upanishad and explain the nature of the Lord and Beings from various angles.
-
-Six students put up questions to the teacher and the teacher answers them all. These questions and answers form this Upanishad.
+This is a large Upanishad consisting of 8 chapters. Various forms of Dhyana (Upasana or Meditation) and Values are discussed in the first five chapters. The last three chapters form the philosophical portion of this Upanishad and explain the nature of Iswara (God) and Jivas (Beings) from various angles.
 
 Listen via {{< ytpl "PLFhE-jwdLAYFXyXH00I0mtv-6yEh_LmYy" >}} {{< itunes "chandogya-upanishad/id879265154" >}}
 
