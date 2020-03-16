@@ -1,4 +1,4 @@
 {{ if .Page.Params.rssfilename }}
     {{ $BaseURL := printf "%s%s" .Site.BaseURL "feeds/itunes/" }}
-    <link rel="alternate" type="application/rss+xml" title="{{ .Title }}" href="{{ $BaseURL }}{{ .Page.Params.rssfilename }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ .Title }}" href="{{ $BaseURL }}{{ .Page.Params.rssfilename }}" />
 {{ end }}
