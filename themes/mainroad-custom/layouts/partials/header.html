@@ -10,13 +10,13 @@
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
 <link rel="dns-prefetch" href="//fonts.gstatic.com" />
-{{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}">{{ end }}
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" media="all">
+{{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}" />{{ end }}
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" media="all" />
 {{ $styles := resources.Get "css/style.css" | minify }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" type="text/css" media="all" />
 {{ $js := resources.Get "js/scripts.js" | minify }}
 <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
-<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}" />
 {{ template "_internal/google_analytics_async.html" . }}
 
 {{ partial "rss-feed.html" . }}
