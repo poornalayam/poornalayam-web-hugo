@@ -1,5 +1,5 @@
 ---
-title: Welcome to Poornalayam
+title: Vedanta Talks in Tamil
 type: page
 name: home
 ---
