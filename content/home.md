@@ -3,7 +3,7 @@ title: Vedanta Talks in Tamil
 type: page
 name: home
 ---
-You are invited to listen to Vedanta classes conducted by Swami Guruparananda in Tamil.
+Welcome to Poornalayam. You are invited to listen to Vedanta classes conducted by Swami Guruparananda in Tamil.
 
 Swami Guruparananda, a traditional teacher of Vedanta, is a disciple of Swami Paramarthananda. Swamiji teaches the Upanishads, the Gita and other Vedantic Texts, in Tamil. Learn more [about Swamiji](/home/about-swamiji/).
 
