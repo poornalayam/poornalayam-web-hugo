@@ -7,7 +7,7 @@ archiveitemid: GistOfGita
 rssfilename: GistOfGita.xml
 ---
 
-All 18 chapters of the Bhagavad Gita have been covered in this talk. The main ideas of each chapter and the important verses in each chapter are explained in this series of talks.
+All 18 chapters of the Bhagavad Gita have been covered in this series. The main ideas of each chapter and the important verses in each chapter are explained in this series of talks.
 
 Chapters 1-6 are covered in classes 1-36. Chapters 7-12 are covered in classes 37-60. Chapters 13-18 are covered in classes 61-91.
 
