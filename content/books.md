@@ -25,6 +25,12 @@ English translation of these books are available only for download:
    <li><a href="https://archive.org/download/PoornalayamBooks/human-values-book-english.pdf">Human Values</a> <small>[நற்பண்புகள்]</small></li>
 </ul>
 
+Other books:
+
+<ul>
+   <li><a href="https://archive.org/download/PoornalayamBooks/nididhyasanam-book-english.pdf">Nididhyasanam (Contemplation)</a></li>
+</ul>
+
 ## II – Texts
 The following subjects taken by Swamiji are available in text form for download:
 
