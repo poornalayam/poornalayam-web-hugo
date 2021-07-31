@@ -33,5 +33,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-       - name: Clear CloudFlare Cache
-         run: curl -S -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json' --data '{"purge_everything": true}'
+      - name: Clear CloudFlare Cache
+        run: curl -S -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json' --data '{"purge_everything": true}'
