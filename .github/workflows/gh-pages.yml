@@ -3,7 +3,7 @@ name: publish github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - master
   schedule:
     # Run every 1st Jan at 00:10am to update the page footer copyright year
     - cron: '10 0 1 1 *'
