@@ -6,7 +6,8 @@ on:
       - master
   schedule:
     # Run every 1st Jan at 00:10am to update the page footer copyright year
-    - cron: '10 0 1 1 *'
+    - cron: '10 0 1 * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
