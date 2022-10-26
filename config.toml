@@ -16,6 +16,11 @@ assetDir = "static"
   home     = ["HTML"]
   section  = ["HTML"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [Params]
     subtitle = "Vedanta Talks in Tamil"
 
