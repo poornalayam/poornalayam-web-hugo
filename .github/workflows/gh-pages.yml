@@ -10,9 +10,6 @@ on:
     - cron: '10 0 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -32,8 +29,8 @@ jobs:
         # Clean up key folders before building and fetch GH Pages repo into public/
         run: |
           rm -rf public/* /tmp/hugo_cache && \
-          git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}" && \
-          git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}" && \
+          git --git-dir public/.git config user.email "41898282+github-actions[bot]@users.noreply.github.com" && \
+          git --git-dir public/.git config user.name  "github-actions[bot]" && \
           git --git-dir public/.git checkout master
 
       - name: Hugo build
@@ -43,7 +40,7 @@ jobs:
         run: |
           git --git-dir public/.git add . && \
           git --git-dir public/.git commit -m "rebuilding site `date`" && \
-          git --git-dir public/.git push 'https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}'
+          git --git-dir public/.git push 'https://github-actions[bot]:${{ secrets.GHTOKEN }}@github.com/poornalayam/poornalayam.github.io'
 
       - name: Purge cache
         uses: nathanvaughn/actions-cloudflare-purge@master
