@@ -28,12 +28,15 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Purge CloudFlare Cache
-        run: curl -S -X POST "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache" -H "Authorization: Bearer $CF_AUTH_TOKEN" -H 'Content-Type: application/json' --data '{"purge_everything": true}'
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: Purge cache
+        uses: nathanvaughn/actions-cloudflare-purge@master
+        with:
+          cf_zone: ${{ secrets.CF_ZONE_ID }}
+          cf_auth: ${{ secrets.CF_AUTH_TOKEN }}
