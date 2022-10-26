@@ -27,7 +27,7 @@ jobs:
 
       - name: Setup dependencies
         # Latest hugo docker images don't contain git or curl
-        run: apk add --update --no-cache git curl
+        run: apt-get update && apt-get install -y git curl
 
       - name: Fetch GH Pages poornalayam.github.io repo
         # Clean up key folders before building and fetch GH Pages repo into public/
