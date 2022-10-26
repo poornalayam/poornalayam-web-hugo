@@ -31,20 +31,20 @@ jobs:
 
       - name: Fetch GH Pages poornalayam.github.io repo
         # Clean up key folders before building
-        run: rm -rf public/* /tmp/hugo_cache
+        - run: rm -rf public/* /tmp/hugo_cache
 
         # Fetch GH Pages repo into public/
-        run: git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}"
-        run: git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}"
-        run: git --git-dir public/.git checkout master
+        - run: git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}"
+        - run: git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}"
+        - run: git --git-dir public/.git checkout master
 
       - name: Hugo build
-        run: hugo --minify
+        - run: hugo --minify
 
       - name: Commit and push to GH Pages repo
-        run: git --git-dir public/.git add .
-        run: git --git-dir public/.git commit -m "rebuilding site `date`"
-        run: https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}
+        - run: git --git-dir public/.git add .
+        - run: git --git-dir public/.git commit -m "rebuilding site `date`"
+        - run: https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}
 
       - name: Purge cache
         uses: nathanvaughn/actions-cloudflare-purge@master
