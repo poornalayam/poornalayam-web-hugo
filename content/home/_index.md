@@ -24,6 +24,8 @@ The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-c
 
 This site enables listening to the classes directly and also facilitates free downloads.
 
-Classes are also available on YouTube and iTunes, please use the subscription links throughout this website. Subscribe via: [YouTube](https://www.youtube.com/user/swamiguruparananda) and [iTunes](https://itunes.apple.com/us/artist/poornalayam/id881211873?mt=2)
+Classes are also published on [YouTube](https://www.youtube.com/user/swamiguruparananda) and [iTunes](https://itunes.apple.com/us/artist/poornalayam/id881211873?mt=2) and subscription links are made available throughout this website.
+
+In order to preserve the purity of the content and offer the best listening experience, Swamiji's classes are published advertisement free on all online platforms.
 
 All are welcome to make use of this facility and be benefited.
