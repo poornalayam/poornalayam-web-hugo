@@ -17,6 +17,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
+          persist-credentials: false # We will push to a different GH Pages repo by using a different token
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
@@ -29,8 +30,8 @@ jobs:
         # Clean up key folders before building and fetch GH Pages repo into public/
         run: |
           rm -rf public/* /tmp/hugo_cache && \
-          git --git-dir public/.git config user.email "41898282+github-actions[bot]@users.noreply.github.com" && \
-          git --git-dir public/.git config user.name  "github-actions[bot]" && \
+          git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}" && \
+          git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}" && \
           git --git-dir public/.git checkout master
 
       - name: Hugo build
@@ -40,7 +41,7 @@ jobs:
         run: |
           git --git-dir public/.git add . && \
           git --git-dir public/.git commit -m "rebuilding site `date`" && \
-          git --git-dir public/.git push 'https://github-actions[bot]:${{ secrets.GHTOKEN }}@github.com/poornalayam/poornalayam.github.io'
+          git --git-dir public/.git push 'https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}'
 
       - name: Purge cache
         uses: nathanvaughn/actions-cloudflare-purge@master
