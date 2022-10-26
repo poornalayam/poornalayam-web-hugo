@@ -30,21 +30,21 @@ jobs:
         run: apk add --update --no-cache git curl
 
       - name: Fetch GH Pages poornalayam.github.io repo
-        # Clean up key folders before building
-        - run: rm -rf public/* /tmp/hugo_cache
-
-        # Fetch GH Pages repo into public/
-        - run: git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}"
-        - run: git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}"
-        - run: git --git-dir public/.git checkout master
+        # Clean up key folders before building and fetch GH Pages repo into public/
+        run: |
+          rm -rf public/* /tmp/hugo_cache && \
+          git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}" && \
+          git --git-dir public/.git config user.name  "${{ secrets.GITNAME  }}" && \
+          git --git-dir public/.git checkout master
 
       - name: Hugo build
         - run: hugo --minify
 
       - name: Commit and push to GH Pages repo
-        - run: git --git-dir public/.git add .
-        - run: git --git-dir public/.git commit -m "rebuilding site `date`"
-        - run: https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}
+        run: |
+          git --git-dir public/.git add . && \
+          git --git-dir public/.git commit -m "rebuilding site `date`" && \
+          https://${{ secrets.GHUSER }}:${{ secrets.GHTOKEN }}@github.com/${{ secrets.GHUSER }}/${{ secrets.GHREPO }}
 
       - name: Purge cache
         uses: nathanvaughn/actions-cloudflare-purge@master
