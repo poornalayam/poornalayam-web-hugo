@@ -1,6 +1,6 @@
 # Poornalayam Website Hugo source
 
-[![pipeline status](https://gitlab.com/poornalayam/poornalayam/badges/master/pipeline.svg)](https://gitlab.com/poornalayam/poornalayam/commits/master)
+[![publish github pages](https://github.com/poornalayam/poornalayam-web-hugo/actions/workflows/gh-pages.yml/badge.svg?branch=master)](https://github.com/poornalayam/poornalayam-web-hugo/actions/workflows/gh-pages.yml)
 
 # Automatic Website Publishing
 
