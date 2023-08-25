@@ -31,7 +31,5 @@ Tamil Nadu – 603 314.
 
 
 
-## Email and Phone
+## Email
 <a href="mailto:poornalayam@gmail.com">poornalayam@gmail.com</a>
-
-Contact cell phone: <a href="tel:+919445674751">+91 94456 74751</a> (9am to 6pm India time).
