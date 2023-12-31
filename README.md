@@ -28,7 +28,7 @@
 1. ~~right side content boxes all simple html -- annoucements, news, download latest talks~~
 1. ~~Change sidebar to appear *before* main content in mobile devices.~~ not needed, present layout is correct
 1. ~~Sidebar html links are not red color, they are black. Fix CSS to make it red like rest of text.~~
-1. nested menus not working
+1. nested menus not working: theme has no support for nested menus. Will not fix.
 1. ~~classes-recorded/* pages, finished upto Bhagavad Gita Ch 03~~ -- completed
 1. ~~Redirect / /home, or create a custom landing page~~ -- static/index.html redirects to /home
 1. Manually merge upstream updates from newer [mainroad theme](https://github.com/Vimux/Mainroad) 
