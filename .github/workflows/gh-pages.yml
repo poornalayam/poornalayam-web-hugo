@@ -4,10 +4,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    # Update the page footer copyright year
-    # Rebuilt website on the 1st of every month, keeps API tokens from expiring
-    - cron: '10 6 1 * *'
   workflow_dispatch:
 
 jobs:

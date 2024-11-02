@@ -1,7 +1,7 @@
 	</div>
 		<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
 			<div class="container container-inner">
-				<p class="footer__copyright">&copy; 1995-<span onload="this.textContent = new Date().getFullYear();"></span> {{ .Site.Title }}</p>
+				<p class="footer__copyright">&copy; 1995-<span id="currentYear"></span> {{ .Site.Title }}</p>
 			</div>
 		</footer>
 	</div><!-- .mh-container-outer -->
@@ -10,6 +10,12 @@
 	var navigation = responsiveNav(".menu", {
 		navClass: "menu--collapse",
 	});
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const currentYear = new Date().getFullYear();
+        document.getElementById('currentYear').textContent = currentYear;
+    });
 </script>
 </body>
 </html>
