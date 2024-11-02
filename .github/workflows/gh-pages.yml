@@ -10,20 +10,21 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          persist-credentials: false # We will push to a different GH Pages repo by using a different token
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.104.3'
           extended: true
 
       - name: Fetch GH Pages poornalayam.github.io repo
         # Clean up key folders before building and fetch GH Pages repo into public/
+        # Note: CloudFlare Pages will watch for changes in public/ repo and deploy the site
         run: |
           rm -rf public/* /tmp/hugo_cache && \
           git --git-dir public/.git config user.email "${{ secrets.GITEMAIL }}" && \
