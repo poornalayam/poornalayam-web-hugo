@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - master
-  schedule:
-      - cron: '0 6 1 1 *'
+# Copyright line in footer is set dynamically via javascript, disabling yearly rebuild
+# schedule:
+#     - cron: '0 6 1 1 *'
   workflow_dispatch:
 
 jobs:
