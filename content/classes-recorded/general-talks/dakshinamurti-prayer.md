@@ -10,9 +10,9 @@ rssfilename: DakshinamurtiPrayer.xml
 This talk explains in detail the Vedantic significance of a verse sung in praise of Lord Dakshinamurthy.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFtEIWkPyhaw2K6qT-uKN9U" >}
-    {< spotify "0wNioJ5KexAvhVF8v4TQpV" >}
-    {< itunes "dakshinamurti-prayer/id879266503" >}
+    {{< ytpl "PLFhE-jwdLAYFtEIWkPyhaw2K6qT-uKN9U" >}}
+    {{< spotify "0wNioJ5KexAvhVF8v4TQpV" >}}
+    {{< itunes "dakshinamurti-prayer/id879266503" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

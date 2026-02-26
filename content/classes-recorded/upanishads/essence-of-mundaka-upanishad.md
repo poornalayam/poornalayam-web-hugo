@@ -10,9 +10,9 @@ rssfilename: EssenceOfMundakaUpanishad.xml
 The essence of Mundaka Upanishad is given in these 18 talks. Each word of the mantra is not explained. Only the essential ideas are explained.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFolycdVnDdAhXVGsjLfgIV" >}
-    {< spotify "2WQXCTnwOGXdt5CaQhsXdx" >}
-    {< itunes "essence-of-mundaka-upanishad/id879268084" >}
+    {{< ytpl "PLFhE-jwdLAYFolycdVnDdAhXVGsjLfgIV" >}}
+    {{< spotify "2WQXCTnwOGXdt5CaQhsXdx" >}}
+    {{< itunes "essence-of-mundaka-upanishad/id879268084" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

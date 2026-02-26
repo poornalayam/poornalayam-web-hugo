@@ -11,9 +11,9 @@ These 50 classes give a comprehensive vision of the Bhagavad Gita. Verse by vers
 Visit the [Essence of Gita page](https://archive.org/details/EssenceOfGita) on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFbbc9-qsNXBYokcGm3YQD7" >}
-    {< spotify "2wICUaSgksbGtwIYnUZjv4" >}
-    {< itunes "essence-of-gita/id879266618" >}
+    {{< ytpl "PLFhE-jwdLAYFbbc9-qsNXBYokcGm3YQD7" >}
+    {{< spotify "2wICUaSgksbGtwIYnUZjv4" >}
+    {{< itunes "essence-of-gita/id879266618" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -10,9 +10,9 @@ rssfilename: EssenceOfKaivalyaUpanishad.xml
 Essence of Kaivalya Upanishad.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGtsAY6miwr7iCXdJNrwnrx" >}
-    {< spotify "3AfIxdqe6gOoEDtcQLDJhD" >}
-    {< itunes "essence-kaivalya-upanishad/id879266675" >}
+    {{< ytpl "PLFhE-jwdLAYGtsAY6miwr7iCXdJNrwnrx" >}}
+    {{< spotify "3AfIxdqe6gOoEDtcQLDJhD" >}}
+    {{< itunes "essence-kaivalya-upanishad/id879266675" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

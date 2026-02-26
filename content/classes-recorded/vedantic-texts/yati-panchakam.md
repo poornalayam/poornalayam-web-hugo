@@ -10,9 +10,9 @@ rssfilename: YatiPanchakam.xml
 This text describes the greatness of a liberated person. These 3 classes explain in detail, the Yati Panchakam.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGdL4ewqFWSMPd3NMLI6JB7" >}
-    {< spotify "67uUawk4XJVZQG8i4PG4uR" >}
-    {< itunes "yati-panchakam/id879271797" >}
+    {{< ytpl "PLFhE-jwdLAYGdL4ewqFWSMPd3NMLI6JB7" >}}
+    {{< spotify "67uUawk4XJVZQG8i4PG4uR" >}}
+    {{< itunes "yati-panchakam/id879271797" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

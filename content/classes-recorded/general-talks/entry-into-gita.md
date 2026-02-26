@@ -10,9 +10,9 @@ rssfilename: EntryIntoGita.xml
 These 3 talks tell us why we must study the Bhagavad Gita. The content of the Gita is given in a nutshell and the benefit of studying the Gita is also explained.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFVPAQ59WioSG2mCpddO0AD" >}
-    {< spotify "2Xy0ewNcz3TpEUcleIgQeD" >}
-    {< itunes "entry-into-gita/id879266610" >}
+    {{< ytpl "PLFhE-jwdLAYFVPAQ59WioSG2mCpddO0AD" >}}
+    {{< spotify "2Xy0ewNcz3TpEUcleIgQeD" >}}
+    {{< itunes "entry-into-gita/id879266610" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

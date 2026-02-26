@@ -10,9 +10,9 @@ rssfilename: BhaktiYoga.xml
 These 6 talks explain in detail the meaning and significance of Bhakti Yoga.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYE-jmSoINvKrwmzwbRz0sU-" >}
-    {< spotify "3SE2w4cC1Txz6DbObvfKPi" >}
-    {< itunes "bhakti-yoga/id879265126" >}
+    {{< ytpl "PLFhE-jwdLAYE-jmSoINvKrwmzwbRz0sU-" >}}
+    {{< spotify "3SE2w4cC1Txz6DbObvfKPi" >}}
+    {{< itunes "bhakti-yoga/id879265126" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

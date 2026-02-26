@@ -10,9 +10,9 @@ rssfilename: SelfEnquiry.xml
 This talk inquires into the true nature of oneself.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHZE3MbCISjEHexl2_uDJUw" >}
-    {< spotify "1nbWbuN79m7RQqpjR6hh7G" >}
-    {< itunes "self-enquiry/id879271775" >}
+    {{< ytpl "PLFhE-jwdLAYHZE3MbCISjEHexl2_uDJUw" >}}
+    {{< spotify "1nbWbuN79m7RQqpjR6hh7G" >}}
+    {{< itunes "self-enquiry/id879271775" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -10,9 +10,9 @@ rssfilename: YogaSutra.xml
 These Sutras were written by Rishi Patanjali. The 35 talks explain the entire Yoga Sutra text.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHpf5Ht6f3xtA0eFOoSk4Z3" >}
-    {< spotify "2tZ6K3if1Ttvt8uvffJ6W5" >}
-    {< itunes "yoga-sutra/id879272570" >}
+    {{< ytpl "PLFhE-jwdLAYHpf5Ht6f3xtA0eFOoSk4Z3" >}}
+    {{< spotify "2tZ6K3if1Ttvt8uvffJ6W5" >}}
+    {{< itunes "yoga-sutra/id879272570" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

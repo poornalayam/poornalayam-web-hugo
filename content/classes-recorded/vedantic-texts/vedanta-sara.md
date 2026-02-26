@@ -19,9 +19,9 @@ Class text for Vedanta Sara (PDF):
 * [Chapter 6](https://archive.org/download/VedantaSaram/VS_06.pdf)
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHZlXDgFun-bcGCY81rSmPq" >}
-    {< spotify "6XIWO8HZTlKLYmjYV6rRK8" >}
-    {< itunes "vedanta-sara-classes/id879271791" >}
+    {{< ytpl "PLFhE-jwdLAYHZlXDgFun-bcGCY81rSmPq" >}}
+    {{< spotify "6XIWO8HZTlKLYmjYV6rRK8" >}}
+    {{< itunes "vedanta-sara-classes/id879271791" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

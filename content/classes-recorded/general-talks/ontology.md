@@ -10,9 +10,9 @@ rssfilename: OntologyClasses.xml
 Ontology is a study about Existence. In this topic three kinds of existence are explained.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYF6DXnw3ZiWcLmUuRwDa4Cy" >}
-    {< spotify "0mRI99elw97TKZhUjEO16g" >}
-    {< itunes "ontology/id1488431144" >}
+    {{< ytpl "PLFhE-jwdLAYF6DXnw3ZiWcLmUuRwDa4Cy" >}}
+    {{< spotify "0mRI99elw97TKZhUjEO16g" >}}
+    {{< itunes "ontology/id1488431144" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -10,9 +10,9 @@ rssfilename: Sivaratri.xml
 This talk explains the significance of Sivaratri.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYEhXjBYt_cj9mBIKttTigZ7" >}
-    {< spotify "1xypOCYA29LPnRGZ211SLZ" >}
-    {< itunes "sivaratri/id879271776" >}
+    {{< ytpl "PLFhE-jwdLAYEhXjBYt_cj9mBIKttTigZ7" >}}
+    {{< spotify "1xypOCYA29LPnRGZ211SLZ" >}}
+    {{< itunes "sivaratri/id879271776" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

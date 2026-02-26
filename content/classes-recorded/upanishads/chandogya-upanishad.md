@@ -10,9 +10,9 @@ rssfilename: ChandogyaUpanishad.xml
 This is a large Upanishad consisting of 8 chapters. Various forms of Dhyana (Upasana or Meditation) and Values are discussed in the first five chapters. The last three chapters form the philosophical portion of this Upanishad and explain the nature of Iswara (God) and Jivas (Beings) from various angles.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFXyXH00I0mtv-6yEh_LmYy" >}
-    {< spotify "0wEI5zd9TOxl8ObK2qsWR9" >}
-    {< itunes "chandogya-upanishad/id879265154" >}
+    {{< ytpl "PLFhE-jwdLAYFXyXH00I0mtv-6yEh_LmYy" >}}
+    {{< spotify "0wEI5zd9TOxl8ObK2qsWR9" >}}
+    {{< itunes "chandogya-upanishad/id879265154" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 4](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 04](https://archive.org/details/BhagavadGitaCh04) page on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFTRfYu75Jx4HNNoEIGzYZ1" >}
-    {< spotify "6YPmp2xJOUxuKW8ry5P78k" >}
-    {< itunes "bhagavad-gita-chapter-04/id879249140" >}
+    {{< ytpl "PLFhE-jwdLAYFTRfYu75Jx4HNNoEIGzYZ1" >}
+    {{< spotify "6YPmp2xJOUxuKW8ry5P78k" >}
+    {{< itunes "bhagavad-gita-chapter-04/id879249140" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

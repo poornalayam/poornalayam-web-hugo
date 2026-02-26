@@ -12,9 +12,9 @@ This is a text written by Shankaracharya. 108 selected verses from the text are 
 Accompanying text for [Vivekachudamani](https://archive.org/download/VedanticTexts/VivekaChudamani.pdf) is available for download.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHOrfO37yN2caVtrL0JKmHE" >}
-    {< spotify "50EscSn1JHeb6oadhtUOi1" >}
-    {< itunes "vivekachudamani/id879271796" >}
+    {{< ytpl "PLFhE-jwdLAYHOrfO37yN2caVtrL0JKmHE" >}}
+    {{< spotify "50EscSn1JHeb6oadhtUOi1" >}}
+    {{< itunes "vivekachudamani/id879271796" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -10,9 +10,9 @@ rssfilename: ThayumanavarPrayer.xml
 Thayumanavar has composed a number of Tamil verses praising the Lord and describing the nature of the Lord. This talk explains one such prayer.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFhnWi47-6OqrVn1tcPTNVT" >}
-    {< spotify "7JMWTx9KobyVb1YwxlEXrx" >}
-    {< itunes "thayumanavar-prayer/id879272429" >}
+    {{< ytpl "PLFhE-jwdLAYFhnWi47-6OqrVn1tcPTNVT" >}}
+    {{< spotify "7JMWTx9KobyVb1YwxlEXrx" >}}
+    {{< itunes "thayumanavar-prayer/id879272429" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -12,9 +12,9 @@ This Upanishad begins with a story and through this story, many values are taugh
 Accompanying text for [Katha Upanishad](https://archive.org/download/UpanishadsTamil/04_Katha_Upanishad.pdf) is available for download.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYG94tQO3v-fYxJVX8qzhGYI" >}
-    {< spotify "5nrzfF0okcFLbOdHPsviab" >}
-    {< itunes "katha-upanishad/id879271196" >}
+    {{< ytpl "PLFhE-jwdLAYG94tQO3v-fYxJVX8qzhGYI" >}}
+    {{< spotify "5nrzfF0okcFLbOdHPsviab" >}}
+    {{< itunes "katha-upanishad/id879271196" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

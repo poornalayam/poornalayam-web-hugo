@@ -10,9 +10,9 @@ rssfilename: JnanaYoga.xml
 Self-knowledge is the means for attaining the Self. This truth is explained in this talk.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYG01ytJmeIySSLAoEnt0LgJ" >}
-    {< spotify "4AW1fHjoVyUyAGGbeB21Lg" >}
-    {< itunes "jnana-yoga/id879268793" >}
+    {{< ytpl "PLFhE-jwdLAYG01ytJmeIySSLAoEnt0LgJ" >}}
+    {{< spotify "4AW1fHjoVyUyAGGbeB21Lg" >}}
+    {{< itunes "jnana-yoga/id879268793" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

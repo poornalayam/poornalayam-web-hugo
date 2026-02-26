@@ -10,9 +10,9 @@ rssfilename: Moksham.xml
 This talk explains the true nature of liberation.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYEWGs1UEtEc2c2z8tg0KPQs" >}
-    {< spotify "5vQ3M1M2mQGx5u72X8TM64" >}
-    {< itunes "moksham/id879272069" >}
+    {{< ytpl "PLFhE-jwdLAYEWGs1UEtEc2c2z8tg0KPQs" >}}
+    {{< spotify "5vQ3M1M2mQGx5u72X8TM64" >}}
+    {{< itunes "moksham/id879272069" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

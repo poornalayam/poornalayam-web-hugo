@@ -10,9 +10,9 @@ rssfilename: VedicPath.xml
 These 3 talks explain the path shown by the Vedas for reaching the ultimate human goal.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGDA4ZTDiZGgmMSxArTtSM8" >}
-    {< spotify "65fAAeBE4xPECd2QmyjNA3" >}
-    {< itunes "vedic-path/id879273817" >}
+    {{< ytpl "PLFhE-jwdLAYGDA4ZTDiZGgmMSxArTtSM8" >}}
+    {{< spotify "65fAAeBE4xPECd2QmyjNA3" >}}
+    {{< itunes "vedic-path/id879273817" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

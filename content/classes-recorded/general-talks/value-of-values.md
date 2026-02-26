@@ -10,9 +10,9 @@ rssfilename: ValueOfValues.xml
 These 3 talks elaborate the values that one must have and the significance of living a life of values.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFHJqbOfSq04WgymNdivLNJ" >}
-    {< spotify "0oJ178WchcTuIWlXyfjq7k" >}
-    {< itunes "value-of-values/id879271790" >}
+    {{< ytpl "PLFhE-jwdLAYFHJqbOfSq04WgymNdivLNJ" >}}
+    {{< spotify "0oJ178WchcTuIWlXyfjq7k" >}}
+    {{< itunes "value-of-values/id879271790" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

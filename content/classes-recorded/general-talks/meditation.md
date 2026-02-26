@@ -10,9 +10,9 @@ rssfilename: MeditationTalk.xml
 This talk explains the various types of meditation and guides us on how to practice meditation.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGvEwm8eWDVv3b7tLuysDID" >}
-    {< spotify "3phBBcyOKTGIO8pW7vpf3Q" >}
-    {< itunes "meditation/id879272067" >}
+    {{< ytpl "PLFhE-jwdLAYGvEwm8eWDVv3b7tLuysDID" >}}
+    {{< spotify "3phBBcyOKTGIO8pW7vpf3Q" >}}
+    {{< itunes "meditation/id879272067" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

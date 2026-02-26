@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 9](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 09](https://archive.org/details/BhagavadGitaCh09) page on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGKTUVxVm7_izi2jJIFQ-ZS" >}
-    {< spotify "0R0DpUOMD92pmMtfm45Pjl" >}
-    {< itunes "bhagavad-gita-chapter-09/id879249179" >}
+    {{< ytpl "PLFhE-jwdLAYGKTUVxVm7_izi2jJIFQ-ZS" >}
+    {{< spotify "0R0DpUOMD92pmMtfm45Pjl" >}
+    {{< itunes "bhagavad-gita-chapter-09/id879249179" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

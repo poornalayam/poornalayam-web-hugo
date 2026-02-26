@@ -12,9 +12,9 @@ This Upanishad contains 3 chapters. The first chapter deals with various forms o
 Accompanying text for [Taittiriya Upanishad](https://archive.org/download/UpanishadsTamil/06_Taittiriya_Upanishad.pdf) is available for download.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGsdpuCyxGl6VvRcU1v1Svm" >}
-    {< spotify "52wG1CjgsHBh1jTDTinjsT" >}
-    {< itunes "taittiriya-upanishad/id879271782" >}
+    {{< ytpl "PLFhE-jwdLAYGsdpuCyxGl6VvRcU1v1Svm" >}}
+    {{< spotify "52wG1CjgsHBh1jTDTinjsT" >}}
+    {{< itunes "taittiriya-upanishad/id879271782" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

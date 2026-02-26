@@ -10,9 +10,9 @@ rssfilename: EssenceOfMandukyaUpanishad.xml
 The essence of Mandukya Upanishad is given in these talks. Each word of the mantra is not explained. Only the essential ideas are explained.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGEcZo3wN0YvIAZr5jeLJa0" >}
-    {< spotify "2dbW9JTJyaPZmaGItAenlH" >}
-    {< itunes "essence-of-mandukya-upanishad/id1488430844" >}
+    {{< ytpl "PLFhE-jwdLAYGEcZo3wN0YvIAZr5jeLJa0" >}}
+    {{< spotify "2dbW9JTJyaPZmaGItAenlH" >}}
+    {{< itunes "essence-of-mandukya-upanishad/id1488430844" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

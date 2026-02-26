@@ -12,9 +12,9 @@ This sloka, composed by Shankaracharya, explains how atma, the absolute consciou
 Accompanying text for [Eka Sloki](https://archive.org/download/VedanticTexts/Eka_Sloki.pdf) is available for download.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYE-B6B9DH1T6pDddFRHY8vm" >}
-    {< spotify "4yJuAN6Xd1T1JxUHEg6UVv" >}
-    {< itunes "eka-sloki/id879266937" >}
+    {{< ytpl "PLFhE-jwdLAYE-B6B9DH1T6pDddFRHY8vm" >}}
+    {{< spotify "4yJuAN6Xd1T1JxUHEg6UVv" >}}
+    {{< itunes "eka-sloki/id879266937" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

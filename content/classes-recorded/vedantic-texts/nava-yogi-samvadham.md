@@ -12,9 +12,9 @@ This text is based on the conversation between the king Nimi and the Nine Sages.
 Accompanying text can be found at [Nava Yogi Samvadham](https://archive.org/download/VedanticTexts/Nava_Yogi_Samvadham.pdf).
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGr4G3g0wplDWep8cd3v6eu" >}
-    {< spotify "4EiMklgrp9LZNrHrHNl2SM" >}
-    {< itunes "nava-yogi-samvadham/id1488431143" >}
+    {{< ytpl "PLFhE-jwdLAYGr4G3g0wplDWep8cd3v6eu" >}}
+    {{< spotify "4EiMklgrp9LZNrHrHNl2SM" >}}
+    {{< itunes "nava-yogi-samvadham/id1488431143" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

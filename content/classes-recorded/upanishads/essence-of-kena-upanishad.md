@@ -10,9 +10,9 @@ rssfilename: EssenceOfKenaUpanishad.xml
 The central theme of Kena Upanishad is given in these 6 talks without explaining each word of the Upanishad mantra.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYEv_mlJWRgxE9hJp13rAkg0" >}
-    {< spotify "6JEqbECdHsyj4WM4OUFmJL" >}
-    {< itunes "essence-of-kena-upanishad/id879268074" >}
+    {{< ytpl "PLFhE-jwdLAYEv_mlJWRgxE9hJp13rAkg0" >}}
+    {{< spotify "6JEqbECdHsyj4WM4OUFmJL" >}}
+    {{< itunes "essence-of-kena-upanishad/id879268074" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

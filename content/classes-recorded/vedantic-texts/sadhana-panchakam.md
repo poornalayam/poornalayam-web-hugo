@@ -10,9 +10,9 @@ rssfilename: SadhanaPanchakam.xml
 This text is attributed to Shankaracharya. All the sadhanas to be practiced by a spiritual seeker, from beginning to end, are mentioned step by step in this text.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHqR5IZ1juLr40hKeynRiDQ" >}
-    {< spotify "51HDzlPoxIjyzjm2iKPE25" >}
-    {< itunes "sadhana-panchakam/id879271669" >}
+    {{< ytpl "PLFhE-jwdLAYHqR5IZ1juLr40hKeynRiDQ" >}}
+    {{< spotify "51HDzlPoxIjyzjm2iKPE25" >}}
+    {{< itunes "sadhana-panchakam/id879271669" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

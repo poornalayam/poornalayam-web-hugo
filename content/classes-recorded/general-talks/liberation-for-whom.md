@@ -10,9 +10,9 @@ rssfilename: LiberationForWhom.xml
 These 6 talks give the true meaning of the word Liberation and tell us who can really seek and attain liberation.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYEXwgEYPLWNuW945oVEym_Q" >}
-    {< spotify "5gxd5GaHa2uykqM8aqPMlk" >}
-    {< itunes "liberation-for-whom/id879268853" >}
+    {{< ytpl "PLFhE-jwdLAYEXwgEYPLWNuW945oVEym_Q" >}}
+    {{< spotify "5gxd5GaHa2uykqM8aqPMlk" >}}
+    {{< itunes "liberation-for-whom/id879268853" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

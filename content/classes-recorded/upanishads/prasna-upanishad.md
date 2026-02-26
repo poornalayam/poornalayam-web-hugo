@@ -10,9 +10,9 @@ rssfilename: PrasnaUpanishad.xml
 Six students put up questions to the teacher and the teacher answers them all. These questions and answers form this Upanishad.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFJ00hoPgPFt6GZNSahcWc1" >}
-    {< spotify "5Hxw38WdNRJOzIjYMRQp5z" >}
-    {< itunes "prasna-upanishad/id879273393" >}
+    {{< ytpl "PLFhE-jwdLAYFJ00hoPgPFt6GZNSahcWc1" >}}
+    {{< spotify "5Hxw38WdNRJOzIjYMRQp5z" >}}
+    {{< itunes "prasna-upanishad/id879273393" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

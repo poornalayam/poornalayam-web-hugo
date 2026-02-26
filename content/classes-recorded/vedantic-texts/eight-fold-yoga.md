@@ -10,9 +10,9 @@ rssfilename: EightFoldYoga.xml
 The yoga sutras were written by Rishi Patanjali. These 6 talks give the essence of the Sutras.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFcnkurLyIlDRXPc84JHOZ6" >}
-    {< spotify "7MiHR00k7FYx3FU2LzvkFk" >}
-    {< itunes "eight-fold-yoga/id879266592" >}
+    {{< ytpl "PLFhE-jwdLAYFcnkurLyIlDRXPc84JHOZ6" >}}
+    {{< spotify "7MiHR00k7FYx3FU2LzvkFk" >}}
+    {{< itunes "eight-fold-yoga/id879266592" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

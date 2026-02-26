@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 11](https://archive.org/download/Bhaga
 Visit the [Bhagavad Gita – Chapter 11](https://archive.org/details/BhagavadGitaCh11) page on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYEV885gpOVufW2xmxlmKxid" >}
-    {< spotify "6xlttTkyBJnj0t7NUEjEDt" >}
-    {< itunes "bhagavad-gita-chapter-11/id879248823" >}
+    {{< ytpl "PLFhE-jwdLAYEV885gpOVufW2xmxlmKxid" >}
+    {{< spotify "6xlttTkyBJnj0t7NUEjEDt" >}
+    {{< itunes "bhagavad-gita-chapter-11/id879248823" >}
 
 
 Class Name | Download Audio | YouTube

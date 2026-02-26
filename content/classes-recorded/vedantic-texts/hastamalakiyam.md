@@ -12,9 +12,9 @@ This text is written by Hastamalaka, a disciple of Shankaracharya and explains t
 Accompanying text for Hastamalakiyam is available for download.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYESMy6ZeMcjBz4uYI7WrlDd" >}
-    {< spotify "4177BmEfsaYcKtNT9fuedS" >}
-    {< itunes "hastamalakiyam/id879265855" >}
+    {{< ytpl "PLFhE-jwdLAYESMy6ZeMcjBz4uYI7WrlDd" >}}
+    {{< spotify "4177BmEfsaYcKtNT9fuedS" >}}
+    {{< itunes "hastamalakiyam/id879265855" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

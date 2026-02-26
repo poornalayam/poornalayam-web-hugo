@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 5](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 05 page](https://archive.org/details/BhagavadGitaCh05) on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYHGL_5BjEt5u2RPqhb67ee6" >}
-    {< spotify "0JOqgeg24r4EpKb093BEiq" >}
-    {< itunes "bhagavad-gita-chapter-05/id879248750" >}
+    {{< ytpl "PLFhE-jwdLAYHGL_5BjEt5u2RPqhb67ee6" >}
+    {{< spotify "0JOqgeg24r4EpKb093BEiq" >}
+    {{< itunes "bhagavad-gita-chapter-05/id879248750" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

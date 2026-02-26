@@ -10,9 +10,9 @@ rssfilename: AparokshaAnubhuti.xml
 This is a text written by Shankaracharya. It gives the essence of Vedanta and then elaborates on the topic of contemplative meditation (Nidhidhyasanam). These 35 talks explain this text in detail.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFByJMHEsDkH2UT6bvAkfrE" >}
-    {< spotify "4gZaaW9leXadbzQdYy7Lhs" >}
-    {< itunes "aparoksha-anubhuti/id879263827" >}
+    {{< ytpl "PLFhE-jwdLAYFByJMHEsDkH2UT6bvAkfrE" >}}
+    {{< spotify "4gZaaW9leXadbzQdYy7Lhs" >}}
+    {{< itunes "aparoksha-anubhuti/id879263827" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -10,9 +10,9 @@ rssfilename: VakyaVritti.xml
 This text written by Shankaracharya explains the meaning of the Mahavakya “Tat tvam asi”. The 15 talks explain, in detail, the verses of this text.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYH82HTducZv2HGkWrkih-UU" >}
-    {< spotify "4zoBixIg4dKviRM7mOgGVg" >}
-    {< itunes "vakya-vritti/id879273801" >}
+    {{< ytpl "PLFhE-jwdLAYH82HTducZv2HGkWrkih-UU" >}}
+    {{< spotify "4zoBixIg4dKviRM7mOgGVg" >}}
+    {{< itunes "vakya-vritti/id879273801" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 16](https://archive.org/download/Bhaga
 Visit the [Bhagavad Gita – Chapter 16 page](https://archive.org/details/BhagavadGitaCh16) on The Internet Archive.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFhh3cqjcyASxpVHyvtXjVU" >}
-    {< spotify "5B2qnakxZ2GYfYOy1dpWVG" >}
-    {< itunes "bhagavad-gita-chapter-16/id879249393" >}
+    {{< ytpl "PLFhE-jwdLAYFhh3cqjcyASxpVHyvtXjVU" >}
+    {{< spotify "5B2qnakxZ2GYfYOy1dpWVG" >}
+    {{< itunes "bhagavad-gita-chapter-16/id879249393" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

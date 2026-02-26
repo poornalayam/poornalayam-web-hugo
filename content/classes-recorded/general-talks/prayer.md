@@ -10,9 +10,9 @@ rssfilename: PrayerClasses.xml
 These two talks give the meaning of Prayer, the various stages in Prayer, the benefits of prayer and finally explain a few Upanishadic prayers.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYGJRS5tElVE7Mlx55rCQ-MD" >}
-    {< spotify "1UWkdpPCuYfeohrleSaR4H" >}
-    {< itunes "prayer/id879271559" >}
+    {{< ytpl "PLFhE-jwdLAYGJRS5tElVE7Mlx55rCQ-MD" >}}
+    {{< spotify "1UWkdpPCuYfeohrleSaR4H" >}}
+    {{< itunes "prayer/id879271559" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

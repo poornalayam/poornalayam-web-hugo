@@ -10,9 +10,9 @@ rssfilename: Thavam.xml
 Swamiji's talk on austerity during Maha Shivarathri.
 
 Listen via
-    {< ytpl "PLFhE-jwdLAYFb4Bt7qIAammhkESysEb6w" >}
-    {< spotify "64PJYY9rECMcB6umnSEMli" >}
-    {< itunes "thavam/id1095147459" >}
+    {{< ytpl "PLFhE-jwdLAYFb4Bt7qIAammhkESysEb6w" >}}
+    {{< spotify "64PJYY9rECMcB6umnSEMli" >}}
+    {{< itunes "thavam/id1095147459" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
