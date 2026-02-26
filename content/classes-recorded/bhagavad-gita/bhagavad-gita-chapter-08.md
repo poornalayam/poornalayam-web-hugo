@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 8](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 08 page](https://archive.org/details/BhagavadGitaCh08) on The Internet Archive.
 
 Listen via
-    {{< ytpl "PLFhE-jwdLAYEyhzPWq4PwLp4DtdtVahWU" >}
-    {{< spotify "42k1oItFhl3VsZLKGftqo4" >}
-    {{< itunes "bhagavad-gita-chapter-08/id879248781" >}
+    {{< ytpl "PLFhE-jwdLAYEyhzPWq4PwLp4DtdtVahWU" >}}
+    {{< spotify "42k1oItFhl3VsZLKGftqo4" >}}
+    {{< itunes "bhagavad-gita-chapter-08/id879248781" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

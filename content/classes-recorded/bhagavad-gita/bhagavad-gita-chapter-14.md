@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 14](https://archive.org/download/Bhaga
 Visit the [Bhagavad Gita – Chapter 14 page](https://archive.org/details/BhagavadGitaCh14) on The Internet Archive.
 
 Listen via
-    {{< ytpl "PLFhE-jwdLAYGMLYEiUAePUnMqhTuG0Xcd" >}
-    {{< spotify "6jYzGv3uhFdFxnIZ2ObgvQ" >}
-    {{< itunes "bhagavad-gita-chapter-14/id879250982" >}
+    {{< ytpl "PLFhE-jwdLAYGMLYEiUAePUnMqhTuG0Xcd" >}}
+    {{< spotify "6jYzGv3uhFdFxnIZ2ObgvQ" >}}
+    {{< itunes "bhagavad-gita-chapter-14/id879250982" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

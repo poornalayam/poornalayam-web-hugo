@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 13](https://archive.org/download/Bhaga
 Visit the [Bhagavad Gita – Chapter 13 page](https://archive.org/details/BhagavadGitaCh13) on The Internet Archive.
 
 Listen via
-    {{< ytpl "PLFhE-jwdLAYEuWT_yjch5d73_2ALMcQMv" >}
-    {{< spotify "2Og8Ghkgttw6BPdwrXhOQS" >}
-    {{< itunes "bhagavad-gita-chapter-13/id879249354" >}
+    {{< ytpl "PLFhE-jwdLAYEuWT_yjch5d73_2ALMcQMv" >}}
+    {{< spotify "2Og8Ghkgttw6BPdwrXhOQS" >}}
+    {{< itunes "bhagavad-gita-chapter-13/id879249354" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

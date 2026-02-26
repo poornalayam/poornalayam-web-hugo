@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 6](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 06 page](https://archive.org/details/BhagavadGitaCh06) on The Internet Archive.
 
 Listen via
-    {{< ytpl "PLFhE-jwdLAYEt65SfOqEuYX65DWwXYf2P" >}
-    {{< spotify "1eSeskhafoySFBcDqImxTS" >}
-    {{< itunes "bhagavad-gita-chapter-06/id879247714" >}
+    {{< ytpl "PLFhE-jwdLAYEt65SfOqEuYX65DWwXYf2P" >}}
+    {{< spotify "1eSeskhafoySFBcDqImxTS" >}}
+    {{< itunes "bhagavad-gita-chapter-06/id879247714" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -14,9 +14,9 @@ The summary of [Bhagavad Gita – Chapter 2](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 02](https://archive.org/details/BhagavadGitaCh02) page on The Internet Archive.
 
 Listen via
-    {{< ytpl "PLFhE-jwdLAYEGvvZf3nZc2WLnec3Xe_xQ" >}
-    {{< spotify "7AvyMG8Sx07ZyZfPNaquUd" >}
-    {{< itunes "bhagavad-gita-chapter-02/id879249123" >}
+    {{< ytpl "PLFhE-jwdLAYEGvvZf3nZc2WLnec3Xe_xQ" >}}
+    {{< spotify "7AvyMG8Sx07ZyZfPNaquUd" >}}
+    {{< itunes "bhagavad-gita-chapter-02/id879249123" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
