@@ -13,7 +13,10 @@ The summary of [Bhagavad Gita – Chapter 17](https://archive.org/download/Bhaga
 
 Visit the [Bhagavad Gita – Chapter 17 page](https://archive.org/details/BhagavadGitaCh17) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYELozM6IIm-2HvjolwBHaxk" >}} {{< itunes "bhagavad-gita-chapter-17/id879251056" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYELozM6IIm-2HvjolwBHaxk" >}
+    {< spotify "4w3Xkt7Y3RpUXwQ6E94hkb" >}
+    {< itunes "bhagavad-gita-chapter-17/id879251056" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

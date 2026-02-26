@@ -13,7 +13,10 @@ The summary of [Bhagavad Gita – Chapter 18](https://archive.org/download/Bhaga
 
 Visit the [Bhagavad Gita – Chapter 18 page](https://archive.org/details/BhagavadGitaCh18) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYH0QdnzYgjf365bvrV_fmxR" >}} {{< itunes "bhagavad-gita-chapter-18/id879249481" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYH0QdnzYgjf365bvrV_fmxR" >}
+    {< spotify "7lhpsWm220krTsqclYYgZE" >}
+    {< itunes "bhagavad-gita-chapter-18/id879249481" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

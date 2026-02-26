@@ -12,7 +12,10 @@ In these 33 classes, the first four sutras are explained.
 
 Visit the [Brahma Sutram](https://archive.org/details/BrahmaSutram) page on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGIQONFaoNTOyeudH3tOl_k" >}} {{< itunes "brahma-sutram/id879263840" >}}
+Listen via
+    {{< ytpl "PLFhE-jwdLAYGIQONFaoNTOyeudH3tOl_k" >}}
+    {{< spotify "7xqeRAABlx8kZQOFCRk4KV" >}}
+    {{< itunes "brahma-sutram/id879263840" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

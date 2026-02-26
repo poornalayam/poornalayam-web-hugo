@@ -9,7 +9,10 @@ rssfilename: PratahSmaranam.xml
 
 This text is attributed to Shankaracharya. It explains the Central theme of Upanishads. These 4 talks explain this text in detail.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFVWVfjWiWltgwFweV5jp0i" >}} {{< itunes "pratah-smaranam/id879272308" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFVWVfjWiWltgwFweV5jp0i" >}
+    {< spotify "0iySSVTskQTmnXtlCUTi63" >}
+    {< itunes "pratah-smaranam/id879272308" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -9,7 +9,10 @@ rssfilename: EssenceOfKathaUpanishad.xml
 
 Katha Upanishad consists of 2 chapters with 3 sections in each chapter. The important aspects of every section have been explained in these 24 talks.
 
-Listen via {{< ytpl "PLFhE-jwdLAYE38PwXLI8x5MFq7XpoOqDW" >}} {{< itunes "essence-of-katha-upanishad/id879265627" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYE38PwXLI8x5MFq7XpoOqDW" >}
+    {< spotify "3dyGkyKwAiw3PyUqCge7bq" >}
+    {< itunes "essence-of-katha-upanishad/id879265627" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

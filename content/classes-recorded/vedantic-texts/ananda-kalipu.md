@@ -11,7 +11,10 @@ This is a vedantic text written by the Tamil saint Thayumanavar. These 18 talks 
 
 Accompanying text for [Ananda Kalipu](https://archive.org/download/VedanticTexts/Ananda_Kalipu.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYECX0ai1r8tkuJGUvXL634h" >}} {{< itunes "ananda-kalipu/id879266095" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYECX0ai1r8tkuJGUvXL634h" >}
+    {< spotify "3Ng4odjlV711j7usZYOnnw" >}
+    {< itunes "ananda-kalipu/id879266095" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

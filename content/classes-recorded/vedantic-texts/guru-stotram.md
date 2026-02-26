@@ -11,7 +11,10 @@ Guru Stotram has 14 verses selected from the Guru Gita, which forms part of Skan
 
 Accompanying text for [Guru Stotram](https://archive.org/download/VedanticTexts/Guru_Stotram.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFxG1hGdxhhKUusYEBkyzje" >}} {{< itunes "guru-stotram/id879264816" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFxG1hGdxhhKUusYEBkyzje" >}
+    {< spotify "1Nlt9L8diEwoPz0d6iINVY" >}
+    {< itunes "guru-stotram/id879264816" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

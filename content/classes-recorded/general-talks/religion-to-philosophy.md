@@ -9,7 +9,10 @@ rssfilename: ReligionToPhilosophy.xml
 
 These 5 talks differentiate Religion and Philosophy and give clarity about what they actually mean.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHt1PYL6XM_00SLvStLxAtG" >}} {{< itunes "religion-to-philosophy/id879273415" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHt1PYL6XM_00SLvStLxAtG" >}
+    {< spotify "5y9o9BuG3jSeFdukZKbzYN" >}
+    {< itunes "religion-to-philosophy/id879273415" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

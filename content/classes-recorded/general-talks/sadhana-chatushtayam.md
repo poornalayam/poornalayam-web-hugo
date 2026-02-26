@@ -9,7 +9,10 @@ rssfilename: SadhanaChatushtayam.xml
 
 The qualifications that a seeker must possess in order to gain Vedantic knowledge are explained in detail in these 6 talks.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFqoaOUekEL1A92Sx2TAxM7" >}} {{< itunes "sadhana-chatushtayam/id879271668" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFqoaOUekEL1A92Sx2TAxM7" >}
+    {< spotify "47I3GtNhUaRxajEdDY3toX" >}
+    {< itunes "sadhana-chatushtayam/id879271668" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

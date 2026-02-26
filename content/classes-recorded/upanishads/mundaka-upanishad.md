@@ -11,7 +11,10 @@ The Mundaka Upanishad gives us the teachings of Vedanta, in a systematic manner.
 
 Accompanying text for [Mundaka Upanishad](https://archive.org/download/UpanishadsTamil/02_Mundaka_Upanishad.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFzDEvepFacHjsyqWrBReP-" >}} {{< itunes "mundaka-upanishad/id879271270" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFzDEvepFacHjsyqWrBReP-" >}
+    {< spotify "4pHorcPEG5wvfdRYz7Vg3B" >}
+    {< itunes "mundaka-upanishad/id879271270" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

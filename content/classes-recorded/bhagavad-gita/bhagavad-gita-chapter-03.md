@@ -14,7 +14,10 @@ The summary of [Bhagavad Gita – Chapter 3](https://archive.org/download/Bhagav
 
 Visit the [Bhagavad Gita – Chapter 03](https://archive.org/details/BhagavadGitaCh03) page on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFE30N2IFD7ibT5mmg7q5d1" >}} {{< itunes "bhagavad-gita-chapter-03/id879248684" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFE30N2IFD7ibT5mmg7q5d1" >}
+    {< spotify "6btigIgZWAf9yFca1FOI1C" >}
+    {< itunes "bhagavad-gita-chapter-03/id879248684" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

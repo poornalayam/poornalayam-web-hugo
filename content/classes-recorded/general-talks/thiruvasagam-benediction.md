@@ -7,7 +7,10 @@ archiveitemid: ThiruvasagamBenediction
 rssfilename: ThiruvasagamBenediction.xml
 ---
 
-Listen via {{< ytpl "PLFhE-jwdLAYGIAo2m2ew0NZpO_rIjGA6z" >}} {{< itunes "thiruvasagam-benediction/id879271789" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYGIAo2m2ew0NZpO_rIjGA6z" >}
+    {< spotify "3y2tGB0euXP5sKhVkJygGv" >}
+    {< itunes "thiruvasagam-benediction/id879271789" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

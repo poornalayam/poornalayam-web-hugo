@@ -11,7 +11,10 @@ This stotram is written by Shankaracharya. Vedantic ideas are beautifully reveal
 
 Accompanying text for [Dakshinamurti Stotram](https://archive.org/download/VedanticTexts/Dakshinamurti_Stotram.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFMED5rp7F3xkocFPBj5U97" >}} {{< itunes "dakshinamurti-stotram/id879266580" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFMED5rp7F3xkocFPBj5U97" >}
+    {< spotify "3MZvvuvONBXK7iiN9B60bU" >}
+    {< itunes "dakshinamurti-stotram/id879266580" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

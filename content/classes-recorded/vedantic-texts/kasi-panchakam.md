@@ -13,7 +13,10 @@ In these 5 verses Sankaracharya brings out the core of vedanta.
 
 Accompanying text for [Kasi Panchakam](https://archive.org/download/VedanticTexts/Kasi_Panchakam.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHyWRS5KEWoJKbQaZJrCqH4" >}} {{< itunes "kasi-panchakam/id879268831" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHyWRS5KEWoJKbQaZJrCqH4" >}
+    {< spotify "7EXY3jmTqhax1sO4p7Ckc4" >}
+    {< itunes "kasi-panchakam/id879268831" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

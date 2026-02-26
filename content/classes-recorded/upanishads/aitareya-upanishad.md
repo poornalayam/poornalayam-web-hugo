@@ -9,7 +9,10 @@ rssfilename: AitareyaUpanishad.xml
 
 In this Upanishad, in addition to imparting the fundamental oneness of the Lord and the Beings, the value of dispassion is also highlighted.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHHnxNenzOc0Wym6-M26x_S" >}} {{< itunes "aitareya-upanishad/id879265991" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHHnxNenzOc0Wym6-M26x_S" >}
+    {< spotify "6MdjMxAQx7KPersBqkKMnc" >}
+    {< itunes "aitareya-upanishad/id879265991" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

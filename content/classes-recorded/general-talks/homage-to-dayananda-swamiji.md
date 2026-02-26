@@ -9,7 +9,10 @@ rssfilename: HomageToDayanandaSwamiji.xml
 
 This talk is about the life sketch and greatness of Pujya Swami Sri Dayananda Saraswathi.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFJpfAEiGA8tSyfhZVfQTLx" >}} {{< itunes "homage-to-dayananda-swamiji/id1095148075" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFJpfAEiGA8tSyfhZVfQTLx" >}
+    {< spotify "3SMH9g6NaGWRTkDDG9Umco" >}
+    {< itunes "homage-to-dayananda-swamiji/id1095148075" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

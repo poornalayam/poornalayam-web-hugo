@@ -9,7 +9,10 @@ rssfilename: SurrenderClasses.xml
 
 This talk tells us about the value of surrender as an important qualification for gaining self-knowledge.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEKATSoLzc5gT-avlBJldSa" >}} {{< itunes "surrender/id879271781" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEKATSoLzc5gT-avlBJldSa" >}
+    {< spotify "1SgkK3aRdHQOsRjqyCov2z" >}
+    {< itunes "surrender/id879271781" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

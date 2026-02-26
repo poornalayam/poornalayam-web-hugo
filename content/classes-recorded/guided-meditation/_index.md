@@ -12,7 +12,10 @@ These classes will help the listeners in understanding the progressive technique
 
 Visit the [Guided Meditation](https://archive.org/details/GuidedMeditation) page on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYE2MSS1HTT3bc6UuUk4rWhS" >}} {{< itunes "guided-meditation/id879268256" >}}
+Listen via
+    {{< ytpl "PLFhE-jwdLAYE2MSS1HTT3bc6UuUk4rWhS" >}}
+    {{< spotify "35VFjZ1dKHBS9CYXiYbxRv" >}}
+    {{< itunes "guided-meditation/id879268256" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

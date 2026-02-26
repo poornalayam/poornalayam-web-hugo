@@ -9,7 +9,10 @@ rssfilename: Kandaranubhuthi.xml
 
 The Tamil text or hymns written by the saint Arunagirinathar on Lord Karthikeyan (Murugan).
 
-Listen via {{< ytpl "PLFhE-jwdLAYF5IFyi6oDju4wXzEYMfqtX" >}} {{< itunes "kandaranubhuthi/id1054767682" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYF5IFyi6oDju4wXzEYMfqtX" >}
+    {< spotify "6EqNRk7EtpOJ5XbNN1qweI" >}
+    {< itunes "kandaranubhuthi/id1054767682" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

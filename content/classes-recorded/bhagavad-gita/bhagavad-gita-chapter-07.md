@@ -13,7 +13,10 @@ The summary of [Bhagavad Gita – Chapter 7](https://archive.org/download/Bhagav
 
 Visit the [Bhagavad Gita – Chapter 07 page](https://archive.org/details/BhagavadGitaCh07) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGAxduhz-YdevVsNSOhZRnO" >}} {{< itunes "bhagavad-gita-chapter-07/id879249174" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYGAxduhz-YdevVsNSOhZRnO" >}
+    {< spotify "12aTzyTkTIM5KAJHvzxj91" >}
+    {< itunes "bhagavad-gita-chapter-07/id879249174" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

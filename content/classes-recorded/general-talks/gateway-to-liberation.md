@@ -9,7 +9,10 @@ rssfilename: GatewayToLiberation.xml
 
 The 2 talks provide guidance to students commencing Vedantic study.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEQBxh_2FrHSiIvqA8EXi69" >}} {{< itunes "gateway-to-liberation/id879265818" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEQBxh_2FrHSiIvqA8EXi69" >}
+    {< spotify "4dIl8ZbtL1EsrICYbo35YI" >}
+    {< itunes "gateway-to-liberation/id879265818" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

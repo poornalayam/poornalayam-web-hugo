@@ -9,7 +9,10 @@ rssfilename: BrhadaranyakaUpanishad.xml
 
 This is a vast Upanishad. All the Upanishadic ideas are dealt with in detail in this Upanishad. Shankaracharya’s commentary for this Upanishad is also an elaborate one.
 
-Listen via {{< ytpl "PLFhE-jwdLAYG5pGpUxpwPJYzcqSlbw-Ti" >}} {{< itunes "brhadaranyaka-upanishad/id879266203" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYG5pGpUxpwPJYzcqSlbw-Ti" >}
+    {< spotify "1HtNTkfTAaXMNiKShibjIe" >}
+    {< itunes "brhadaranyaka-upanishad/id879266203" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

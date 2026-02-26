@@ -14,7 +14,10 @@ The summary of [Bhagavad Gita – Chapter 1](https://archive.org/download/Bhagav
 Visit the [Bhagavad Gita – Chapter 01](https://archive.org/details/BhagavadGitaCh01) page on The Internet Archive.
 
 
-Listen via {{< ytpl "PLFhE-jwdLAYHl5aPuBs40AXGoo60cWSe2" >}} {{< itunes "bhagavad-gita-chapter-01/id879249120" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHl5aPuBs40AXGoo60cWSe2" >}
+    {< spotify "0nfbp9eJDlmymhQXrlO7OS" >}
+    {< itunes "bhagavad-gita-chapter-01/id879249120" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

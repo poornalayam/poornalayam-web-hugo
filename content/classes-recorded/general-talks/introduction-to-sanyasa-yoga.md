@@ -9,7 +9,10 @@ rssfilename: IntroductionToSanyasaYoga.xml
 
 This is an introduction speech given by Swamiji based on Chapter 5 of Bhagavad Gita. In this speech, Swamiji has clearly stated about the types and nature of Sanyasa.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHH51y4_yRzKz-f40BSK1SQ" >}} {{< itunes "introduction-to-sanyasayoga/id879265871" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHH51y4_yRzKz-f40BSK1SQ" >}
+    {< spotify "3fsppod86uBXoWo1oJsnr2" >}
+    {< itunes "introduction-to-sanyasayoga/id879265871" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

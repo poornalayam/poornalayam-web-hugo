@@ -9,7 +9,10 @@ rssfilename: MundakaWithBashyam.xml
 
 The commentaries written by Shankaracharya are called Bhashyam. Word by word explanation of the Mundaka Upanishad Bhashyam is given in these classes.
 
-Listen via {{< ytpl "PLFhE-jwdLAYE83G_gu4vCNzDaaINmFmo4" >}} {{< itunes "mundaka-with-bashyam/id879272953" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYE83G_gu4vCNzDaaINmFmo4" >}
+    {< spotify "0bsjY9nzJXRYGu4B3hpwL6" >}
+    {< itunes "mundaka-with-bashyam/id879272953" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

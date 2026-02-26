@@ -11,7 +11,10 @@ This Upanishad begins with the highest truth, viz., the underlying oneness of th
 
 Accompanying text for [Kena Upanishad](https://archive.org/download/UpanishadsTamil/03_Kena_Upanishad.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGzBlscdFiz9i5zc35H6m6W" >}} {{< itunes "kena-upanishad/id879268852" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYGzBlscdFiz9i5zc35H6m6W" >}
+    {< spotify "1Of2VU8fSU3qIzRPQ4ncwJ" >}
+    {< itunes "kena-upanishad/id879268852" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

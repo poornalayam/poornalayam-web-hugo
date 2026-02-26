@@ -9,7 +9,10 @@ rssfilename: Illaram.xml
 
 This talk guides us towards a purposeful family life. It shows how family life can be made conducive to achieving our spiritual goal.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFuAocc7y82qJ4Ek0oScPo7" >}} {{< itunes "illaram/id879267316" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFuAocc7y82qJ4Ek0oScPo7" >}
+    {< spotify "6m8osotNzvPlgoND0r9juk" >}
+    {< itunes "illaram/id879267316" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

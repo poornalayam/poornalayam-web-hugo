@@ -9,7 +9,10 @@ rssfilename: EssenceOfKarika.xml
 
 These talks give the summary of Gaudapadacharya’s Karika.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEBRP3rw0571-wmihjxqgX9" >}} {{< itunes "essence-of-karika/id879266676" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEBRP3rw0571-wmihjxqgX9" >}
+    {< spotify "7ewB66K14nq30MRB9bnYvf" >}
+    {< itunes "essence-of-karika/id879266676" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

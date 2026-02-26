@@ -11,7 +11,10 @@ This is a small text written by Shankaracharya. This text introduces the seeker 
 
 Accompanying text for [Tattva Bodha](https://archive.org/download/VedanticTexts/Tattvabodha.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYE_-P8SwKKpxbL25gayAEyn" >}} {{< itunes "tattva-bodha/id879273679" >}}
+Listen via
+    {{< ytpl "PLFhE-jwdLAYE_-P8SwKKpxbL25gayAEyn" >}}
+    {{< spotify "5ms9Ie7kYJnxtnXDDe7zeg" >}}
+    {{< itunes "tattva-bodha/id879273679" >}}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -11,7 +11,10 @@ This text is written by Swami Gnanananda Bharati of Sringeri Mutt. The sadhanas 
 
 Accompanying text for [Jiva Yatra](https://archive.org/download/VedanticTexts/Jiva_Yatra.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEE9YZozTRase2QhZXMQTa0" >}} {{< itunes "jiva-yatra/id879269914" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEE9YZozTRase2QhZXMQTa0" >}
+    {< spotify "25fHyIa9gE0Rb6nSiwJP6H" >}
+    {< itunes "jiva-yatra/id879269914" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -13,7 +13,10 @@ The summary of [Bhagavad Gita – Chapter 15](https://archive.org/download/Bhaga
 
 Visit the [Bhagavad Gita – Chapter 15 page](https://archive.org/details/BhagavadGitaCh15) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYGbAn5GIH3vzz_2DxzNQvbw" >}} {{< itunes "bhagavad-gita-chapter-15/id879249356" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYGbAn5GIH3vzz_2DxzNQvbw" >}
+    {< spotify "1mMv3vIjN8A0ISCn2udv8N" >}
+    {< itunes "bhagavad-gita-chapter-15/id879249356" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

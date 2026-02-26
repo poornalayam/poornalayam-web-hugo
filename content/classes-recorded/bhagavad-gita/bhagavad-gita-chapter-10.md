@@ -13,7 +13,10 @@ The summary of [Bhagavad Gita – Chapter 10](https://archive.org/download/Bhaga
 
 Visit the [Bhagavad Gita – Chapter 10 page](https://archive.org/details/BhagavadGitaCh10) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFCu1hAGdRF_ODYvpA-1mXS" >}} {{< itunes "bhagavad-gita-chapter-10/id879248812" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFCu1hAGdRF_ODYvpA-1mXS" >}
+    {< spotify "5ICMY9pEJW7k85kmCfpGke" >}
+    {< itunes "bhagavad-gita-chapter-10/id879248812" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

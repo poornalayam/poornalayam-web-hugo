@@ -9,7 +9,10 @@ rssfilename: EssenceOfTaittiriyaUpanishad.xml
 
 The essence of Taittiriya Upanishad is given in these talks. Each word of the mantra is not explained. Only the essential ideas are explained.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHr25rw2QE9NMI_8taOlrgg" >}} {{< itunes "essenceoftaittiriyaupanishad/id879268083" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHr25rw2QE9NMI_8taOlrgg" >}
+    {< spotify "5EwKeK4QRPIPY2IXqZD0LR" >}
+    {< itunes "essenceoftaittiriyaupanishad/id879268083" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

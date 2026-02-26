@@ -13,7 +13,10 @@ Chapters 1-6 are covered in classes 1-36. Chapters 7-12 are covered in classes 3
 
 Visit the [Gist of Gita page](https://archive.org/details/GistOfGita) on The Internet Archive.
 
-Listen via {{< ytpl "PLFhE-jwdLAYFDAtmXH3GPLf8ih2p8pbpc" >}} {{< itunes "gist-of-gita/id879268267" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYFDAtmXH3GPLf8ih2p8pbpc" >}
+    {< spotify "2goUK0luhVoifKeSG7PKTT" >}
+    {< itunes "gist-of-gita/id879268267" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

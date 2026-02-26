@@ -11,7 +11,10 @@ This is a teaching given by Lord Krishna to his disciple Uddhava. This forms a p
 
 Class text for Uddhava Gita can be found on the [books](/books/) page.
 
-Listen via {{< ytpl "PLFhE-jwdLAYHgR3-lqzc_bG0Y_yEQWwup" >}} {{< itunes "uddhava-gita/id878910621" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYHgR3-lqzc_bG0Y_yEQWwup" >}
+    {< spotify "0ZMthOEmecMhWszddLHrEE" >}
+    {< itunes "uddhava-gita/id878910621" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

@@ -11,7 +11,10 @@ This Upanishad reveals how we are one with God and advocates renunciation as a m
 
 Accompanying text for [Isavasya Upanishad](https://archive.org/download/UpanishadsTamil/07_Isavasya_Upanishad.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYED4QYPA0aHmXgk2WASWiIM" >}} {{< itunes "essence-isavasya-upanishad/id879265290" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYED4QYPA0aHmXgk2WASWiIM" >}
+    {< spotify "5GHAg4uU5x3mXRIZXvaC34" >}
+    {< itunes "essence-isavasya-upanishad/id879265290" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

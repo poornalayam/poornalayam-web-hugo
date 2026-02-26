@@ -11,7 +11,10 @@ Maneesha Panchakam consisting of five slokas was written by Shankaracharya. Thes
 
 Accompanying text for [Maneesha Panchakam](https://archive.org/download/VedanticTexts/Maneesha_Panchakam.pdf) is available for download.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEq2onOIidpdr6-_xcmVwrk" >}} {{< itunes "maneesha-panchakam/id879272048" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEq2onOIidpdr6-_xcmVwrk" >}
+    {< spotify "3SA4d3ewWICuJ7LJSI7FZA" >}
+    {< itunes "maneesha-panchakam/id879272048" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:

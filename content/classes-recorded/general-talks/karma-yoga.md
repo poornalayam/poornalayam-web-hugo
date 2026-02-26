@@ -9,7 +9,10 @@ rssfilename: KarmaYoga.xml
 
 These 5 talks explain in detail the meaning and significance of Karma Yoga.
 
-Listen via {{< ytpl "PLFhE-jwdLAYEiYV4Mk9iaC7qfD2eEWH38" >}} {{< itunes "karma-yoga/id879270139" >}}
+Listen via
+    {< ytpl "PLFhE-jwdLAYEiYV4Mk9iaC7qfD2eEWH38" >}
+    {< spotify "4ZC3apKuAC4Mw4LPEScanQ" >}
+    {< itunes "karma-yoga/id879270139" >}
 
 Class Name | Download Audio | YouTube
 :---|:---:|:---:
