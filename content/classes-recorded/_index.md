@@ -4,7 +4,7 @@ type: page
 name: classes-recorded
 ---
 
-Classes are provided in audio mp3 format for download from this website, in [YouTube Channel](https://www.youtube.com/user/swamiguruparananda) and also in [iTunes](https://itunes.apple.com/us/artist/poornalayam/id881211873?mt=2). Each class is of 60 minutes duration.
+Classes are provided in audio mp3 format for download from this website, in [YouTube Channel](https://www.youtube.com/user/swamiguruparananda), Spotify and also in [iTunes](https://itunes.apple.com/us/artist/poornalayam/id881211873?mt=2). Each class is of 60 minutes duration.
 
 The [Poornalayam Catalogue (பட்டியல்) 2019](/files/poornalayam-catalogue-2019.pdf) contains a complete list of Swamiji’s books and classes.
 
